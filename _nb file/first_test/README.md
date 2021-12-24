@@ -72,3 +72,17 @@ Output for the procedure:
 ## NOW THE CODE WORKS !
 
 See [first_test/EP_ACM_2021 2.nb](EP_ACM_2021%202.nb) notebook
+
+> 24 dec - Created new element
+
+- `Q1EPS` for elasto plastic with isotropic hardening
+- `Q1EPS-2` for elasto plastic with kinematic hardening
+
+Isotropic:
+
+![](pastedFig/2021-12-24-12-46-11.png =50%x)
+
+Cinematic:
+
+![](pastedFig/2021-12-24-12-49-41.png =50%x)
+
