@@ -11,3 +11,4 @@
 
 - [1 gen](/_nb%20file/test/README.md) - Created `Q1EPS2`. Implemented stress factor calculation.
 - 26 gen - Other test and implmented `AnimationOfResponse[]`to export mp4 video of deformation
+- [27 gen](/_nb%20file/final/README.md) - Final notebook.
