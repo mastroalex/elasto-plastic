@@ -1,34 +1,34 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  31 JAN 2022 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.28)  1 FEB 2022 08:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **my_beamer.tex
 (./my_beamer.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
-Document Class: beamer 2021/03/19 v3.62 A class for typesetting presentations
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2021/10/18 v3.64 A class for typesetting presentations
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count179
+\etb@tempcnta=\count182
 )
-\beamer@tempbox=\box47
-\beamer@tempcount=\count180
-\c@beamerpauses=\count181
+\beamer@tempbox=\box50
+\beamer@tempcount=\count183
+\c@beamerpauses=\count184
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
-\beamer@slideinframe=\count182
-\beamer@minimum=\count183
-\beamer@decode@box=\box48
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count185
+\beamer@minimum=\count186
+\beamer@decode@box=\box51
 )
-\beamer@commentbox=\box49
-\beamer@modecount=\count184
+\beamer@commentbox=\box52
+\beamer@modecount=\count187
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \headdp=\dimen138
@@ -48,49 +48,50 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \beamer@descdefault=\dimen152
 \beamer@descriptionwidth=\dimen153
 \beamer@lastskip=\skip47
-\beamer@areabox=\box50
-\beamer@animcurrent=\box51
-\beamer@animshowbox=\box52
-\beamer@sectionbox=\box53
-\beamer@logobox=\box54
-\beamer@linebox=\box55
-\beamer@sectioncount=\count185
-\beamer@subsubsectionmax=\count186
-\beamer@subsectionmax=\count187
-\beamer@sectionmax=\count188
-\beamer@totalheads=\count189
-\beamer@headcounter=\count190
-\beamer@partstartpage=\count191
-\beamer@sectionstartpage=\count192
-\beamer@subsectionstartpage=\count193
-\beamer@animationtempa=\count194
-\beamer@animationtempb=\count195
-\beamer@xpos=\count196
-\beamer@ypos=\count197
-\beamer@ypos@offset=\count198
-\beamer@showpartnumber=\count199
-\beamer@currentsubsection=\count266
-\beamer@coveringdepth=\count267
-\beamer@sectionadjust=\count268
-\beamer@tocsectionnumber=\count269
+\beamer@areabox=\box53
+\beamer@animcurrent=\box54
+\beamer@animshowbox=\box55
+\beamer@sectionbox=\box56
+\beamer@logobox=\box57
+\beamer@linebox=\box58
+\beamer@sectioncount=\count188
+\beamer@subsubsectionmax=\count189
+\beamer@subsectionmax=\count190
+\beamer@sectionmax=\count191
+\beamer@totalheads=\count192
+\beamer@headcounter=\count193
+\beamer@partstartpage=\count194
+\beamer@sectionstartpage=\count195
+\beamer@subsectionstartpage=\count196
+\beamer@animationtempa=\count197
+\beamer@animationtempb=\count198
+\beamer@xpos=\count199
+\beamer@ypos=\count266
+\beamer@ypos@offset=\count267
+\beamer@showpartnumber=\count268
+\beamer@currentsubsection=\count269
+\beamer@coveringdepth=\count270
+\beamer@sectionadjust=\count271
+\beamer@toclastsection=\count272
+\beamer@tocsectionnumber=\count273
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks16
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count270
-\Gm@cntv=\count271
-\c@Gm@tempcnt=\count272
+\Gm@cnth=\count274
+\Gm@cntv=\count275
+\c@Gm@tempcnt=\count276
 \Gm@bindingoffset=\dimen154
 \Gm@wd@mp=\dimen155
 \Gm@odd@mp=\dimen156
@@ -99,57 +100,56 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen159
 \Gm@layouthoffset=\dimen160
 \Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks16
+\Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
-\pgfutil@everybye=\toks17
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box56
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
-\pgfkeys@tmptoks=\toks20
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen166
 \pgf@y=\dimen167
@@ -163,41 +163,36 @@ ode.tex
 \pgf@yd=\dimen175
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count273
-\c@pgf@countb=\count274
-\c@pgf@countc=\count275
-\c@pgf@countd=\count276
-\t@pgf@toka=\toks21
-\t@pgf@tokb=\toks22
-\t@pgf@tokc=\toks23
-\pgf@sys@id@count=\count277
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+\c@pgf@counta=\count277
+\c@pgf@countb=\count278
+\c@pgf@countc=\count279
+\c@pgf@countd=\count280
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count281
+ (c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count278
-\pgfsyssoftpath@bigbuffer@items=\count279
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count282
+\pgfsyssoftpath@bigbuffer@items=\count283
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -211,46 +206,46 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen176
-\pgfmath@count=\count280
-\pgfmath@box=\box57
-\pgfmath@toks=\toks24
-\pgfmath@stack@operand=\toks25
-\pgfmath@stack@operation=\toks26
+\pgfmath@count=\count284
+\pgfmath@box=\box60
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
 .code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count281
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen177
 \pgf@picmaxx=\dimen178
 \pgf@picminy=\dimen179
@@ -266,155 +261,145 @@ File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@zx=\dimen189
 \pgf@zy=\dimen190
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen191
 \pgf@path@lasty=\dimen192
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen193
 \pgf@shorten@start@additional=\dimen194
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box58
-\pgf@hbox=\box59
-\pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count282
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count286
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen195
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen196
 \pgf@pt@y=\dimen197
 \pgf@pt@temp=\dimen198
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
 de.tex
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen199
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count283
-\pgf@shadingcount=\count284
+\pgf@sys@shading@range@num=\count287
+\pgf@shadingcount=\count288
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box61
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count285
-\XC@countmixins=\count286
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+\XC@nummixins=\count289
+\XC@countmixins=\count290
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+(c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+(c:/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(c:/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+(c:/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(c:/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen257
-\Hy@linkcounter=\count287
-\Hy@pagecounter=\count288
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+)
+(c:/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count289
+\Hy@SavedSpaceFactor=\count293
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -428,225 +413,149 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count290
+\c@Hy@tempcnt=\count294
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+(c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen258
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(c:/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count291
+\Fld@menulength=\count295
 \Field@Width=\dimen259
 \Fld@charsize=\dimen260
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
-\Hy@abspage=\count292
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+\Hy@abspage=\count296
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+ (c:/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count293
-\c@bookmark@seq@number=\count294
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(c:/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(c:/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
-y) (/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+))
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks27
+\@emptytoks=\toks28
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+(c:/texlive/2021/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
-(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
 
-
-LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
 
 
-LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
-
-
-LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
-
-
-LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
-
-
-LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
-
-
-LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
-(LaTeX3)     93.
-
-
-LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
-(LaTeX3)     173.
-
-
-LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
-
-
-LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
-(LaTeX3)     191.
-
-
-LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
-
-
-LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
-
-
-LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
-
-
-LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
-
-
-LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
-
-
-LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
-
-
-LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
-
-
-LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
-(LaTeX3)     line 234.
-
-
-LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
-(LaTeX3)     line 242.
-
-
-LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
-(LaTeX3)     line 247.
-
-
-LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
-(LaTeX3)     line 261.
-
-
-LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
-(LaTeX3)     274.
-
-
-LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
-
-
-LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
-(LaTeX3)     line 298.
-
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+(c:/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
 )))))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator.sty
-Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
-\beamer@argscount=\count295
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count299
 \beamer@lastskipcover=\skip50
-\beamer@trivlistdepth=\count296
+\beamer@trivlistdepth=\count300
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasesection.sty
-\c@lecture=\count297
-\c@part=\count298
-\c@section=\count299
-\c@subsection=\count300
-\c@subsubsection=\count301
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count301
+\c@part=\count302
+\c@section=\count303
+\c@subsection=\count304
+\c@subsubsection=\count305
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
-\beamer@framebox=\box62
-\beamer@frametitlebox=\box63
-\beamer@zoombox=\box64
-\beamer@zoomcount=\count302
-\beamer@zoomframecount=\count303
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box65
+\beamer@frametitlebox=\box66
+\beamer@zoombox=\box67
+\beamer@zoomcount=\count306
+\beamer@zoomframecount=\count307
 \beamer@frametextheight=\dimen261
-\c@subsectionslide=\count304
+\c@subsectionslide=\count308
 \beamer@frametopskip=\skip51
 \beamer@framebottomskip=\skip52
 \beamer@frametopskipautobreak=\skip53
 \beamer@framebottomskipautobreak=\skip54
-\beamer@envbody=\toks28
+\beamer@envbody=\toks29
 \framewidth=\dimen262
-\c@framenumber=\count305
+\c@framenumber=\count309
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
-\beamer@splitbox=\box65
-\beamer@autobreakcount=\count306
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box68
+\beamer@autobreakcount=\count310
 \beamer@autobreaklastheight=\dimen263
-\beamer@frametitletoks=\toks29
-\beamer@framesubtitletoks=\toks30
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
-sty
-\beamer@footins=\box66
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
-\beamer@frameboxcopy=\box67
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box69
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
-\beamer@sbttoks=\toks31
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box70
+)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks32
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
-\bmb@box=\box68
-\bmb@colorbox=\box69
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box71
+\bmb@colorbox=\box72
 \bmb@boxwidth=\dimen264
 \bmb@boxheight=\dimen265
 \bmb@prevheight=\dimen266
@@ -657,120 +566,113 @@ sty
 )
 \beamer@blockheadheight=\dimen271
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
-ty (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks32
+\@enLab=\toks33
 )
 \beamer@bibiconwidth=\skip55
-\c@figure=\count307
-\c@table=\count308
+\c@figure=\count311
+\c@table=\count312
 \abovecaptionskip=\skip56
 \belowcaptionskip=\skip57
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
 \beamer@section@min@dim=\dimen272
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks33
+\@emptytoks=\toks34
 \ex@=\dimen273
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen274
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count309
+\inf@bad=\count313
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count310
-\leftroot@=\count311
+\uproot@=\count314
+\leftroot@=\count315
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count312
-\DOTSCASE@=\count313
+\classnum@=\count316
+\DOTSCASE@=\count317
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box70
-\strutbox@=\box71
+\Mathstrutbox@=\box73
+\strutbox@=\box74
 \big@size=\dimen275
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count314
-\c@MaxMatrixCols=\count315
+\macc@depth=\count318
+\c@MaxMatrixCols=\count319
 \dotsspace@=\muskip17
-\c@parentequation=\count316
-\dspbrk@lvl=\count317
-\tag@help=\toks34
-\row@=\count318
-\column@=\count319
-\maxfields@=\count320
-\andhelp@=\toks35
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks35
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks36
 \eqnshift@=\dimen276
 \alignsep@=\dimen277
 \tagshift@=\dimen278
 \tagwidth@=\dimen279
 \totwidth@=\dimen280
 \lineht@=\dimen281
-\@envbody=\toks36
+\@envbody=\toks37
 \multlinegap=\skip59
 \multlinetaggap=\skip60
-\mathdisplay@stack=\toks37
+\mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks38
-\thm@bodyfont=\toks39
-\thm@headfont=\toks40
-\thm@notefont=\toks41
-\thm@headpunct=\toks42
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
 \thm@preskip=\skip61
 \thm@postskip=\skip62
 \thm@headsep=\skip63
-\dth@everypar=\toks43
+\dth@everypar=\toks44
 )
-\c@theorem=\count321
+\c@theorem=\count325
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemedefault.st
-y)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.st
-y
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemedefault.st
-y))) (./beamerthemeSimplePlus.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.st
-y)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.
-sty))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.st
-y) (./beamerfontthemeSimplePlus.sty) (./beamercolorthemeSimplePlus.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemestructure.
-sty)) (./beamerinnerthemeSimplePlus.sty))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(./beamerthemeSimplePlus.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty)
+(./beamerfontthemeSimplePlus.sty) (./beamercolorthemeSimplePlus.sty
+(c:/texlive/2021/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty))
+(./beamerinnerthemeSimplePlus.sty))
+(c:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen284
 \lightrulewidth=\dimen285
@@ -782,155 +684,141 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen291
 \cmidrulekern=\dimen292
 \defaultaddspace=\dimen293
-\@cmidla=\count322
-\@cmidlb=\count323
+\@cmidla=\count326
+\@cmidlb=\count327
 \@aboverulesep=\dimen294
 \@belowrulesep=\dimen295
-\@thisruleclass=\count324
-\@lastruleclass=\count325
+\@thisruleclass=\count328
+\@lastruleclass=\count329
 \@thisrulewidth=\dimen296
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
+(c:/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2021-10-26 v3.0.34 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen297
+\l__siunitx_angle_marker_box=\box75
+\l__siunitx_angle_unit_box=\box76
+\l__siunitx_compound_count_int=\count330
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count326
-\l__pdf_internal_box=\box72
+(c:/texlive/2021/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count331
+\l__siunitx_number_min_decimal_int=\count332
+\l__siunitx_number_min_integer_int=\count333
+\l__siunitx_number_round_precision_int=\count334
+\l__siunitx_number_group_minimum_int=\count335
+\l__siunitx_table_tmp_box=\box77
+\l__siunitx_table_tmp_dim=\dimen298
+\l__siunitx_table_column_width_dim=\dimen299
+\l__siunitx_table_integer_box=\box78
+\l__siunitx_table_decimal_box=\box79
+\l__siunitx_table_before_box=\box80
+\l__siunitx_table_after_box=\box81
+\l__siunitx_table_before_dim=\dimen300
+\l__siunitx_table_carry_dim=\dimen301
+\l__siunitx_unit_tmp_int=\count336
+\l__siunitx_unit_position_int=\count337
+\l__siunitx_unit_total_int=\count338
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-10-18 L3 programming layer (loader) 
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count339
+\l__pdf_internal_box=\box82
 ))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
-01.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
-tex)))
-Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
- (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen297
-\ar@mcellbox=\box73
-\extrarowheight=\dimen298
-\NC@list=\toks44
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen302
+\ar@mcellbox=\box83
+\extrarowheight=\dimen303
+\NC@list=\toks45
 \extratabsurround=\skip64
 \backup@length=\skip65
-\ar@cellbox=\box74
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
-)
-\l__siunitx_tmp_box=\box75
-\l__siunitx_tmp_dim=\dimen299
-\l__siunitx_tmp_int=\count327
-\l__siunitx_number_mantissa_length_int=\count328
-\l__siunitx_number_uncert_length_int=\count329
-\l__siunitx_round_int=\count330
-\l__siunitx_process_decimal_int=\count331
-\l__siunitx_process_uncertainty_int=\count332
-\l__siunitx_process_fixed_int=\count333
-\l__siunitx_process_integer_min_int=\count334
-\l__siunitx_process_precision_int=\count335
-\l__siunitx_group_min_int=\count336
-\l__siunitx_angle_marker_box=\box76
-\l__siunitx_angle_unit_box=\box77
-\l__siunitx_angle_marker_dim=\dimen300
-\l__siunitx_angle_unit_dim=\dimen301
-\l__siunitx_unit_int=\count337
-\l__siunitx_unit_denominator_int=\count338
-\l__siunitx_unit_numerator_int=\count339
-\l__siunitx_unit_prefix_int=\count340
-\l__siunitx_unit_prefix_base_int=\count341
-\l__siunitx_unit_prefix_gram_int=\count342
-\l__siunitx_number_product_int=\count343
-\c__siunitx_one_fill_skip=\skip66
-\l__siunitx_table_unit_align_skip=\skip67
-\l__siunitx_table_exponent_dim=\dimen302
-\l__siunitx_table_integer_dim=\dimen303
-\l__siunitx_table_mantissa_dim=\dimen304
-\l__siunitx_table_marker_dim=\dimen305
-\l__siunitx_table_result_dim=\dimen306
-\l__siunitx_table_uncert_dim=\dimen307
-\l__siunitx_table_fill_pre_dim=\dimen308
-\l__siunitx_table_fill_post_dim=\dimen309
-\l__siunitx_table_fill_mid_dim=\dimen310
-\l__siunitx_table_pre_box=\box78
-\l__siunitx_table_post_box=\box79
-\l__siunitx_table_mantissa_box=\box80
-\l__siunitx_table_result_box=\box81
-\l__siunitx_table_number_align_skip=\skip68
-\l__siunitx_table_text_align_skip=\skip69
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/import/import.sty
+\ar@cellbox=\box84
+))
+(c:/texlive/2021/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+(c:/texlive/2021/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/wasysym.sty
+(c:/texlive/2021/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
 \symwasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
 LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 243.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/cancel/cancel.sty
+(c:/texlive/2021/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen311
-\captionmargin@=\dimen312
-\captionwidth=\dimen313
-\caption@tempdima=\dimen314
-\caption@indent=\dimen315
-\caption@parindent=\dimen316
-\caption@hangindent=\dimen317
+\captionmargin=\dimen304
+\captionmargin@=\dimen305
+\captionwidth=\dimen306
+\caption@tempdima=\dimen307
+\caption@indent=\dimen308
+\caption@parindent=\dimen309
+\caption@hangindent=\dimen310
 Package caption Info: beamer document class detected.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption-beamer.sto
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
  beamer document classes (AR)
 ))
-\c@caption@flags=\count344
-\c@continuedfloat=\count345
+\c@caption@flags=\count340
+\c@continuedfloat=\count341
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
-\c@subfigure=\count346
-\c@subtable=\count347
+\c@subfigure=\count342
+\c@subtable=\count343
 )
+   defining Unicode char U+25CF (decimal 9679)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 51.
+
 (./my_beamer.aux)
 \openout1 = `my_beamer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -966,172 +854,1589 @@ LaTeX Font Info:    ... okay on input line 50.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count348
-\scratchdimen=\dimen318
-\scratchbox=\box82
-\nofMPsegments=\count349
-\nofMParguments=\count350
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count351
-\MPscratchDim=\dimen319
-\MPnumerator=\count352
-\makeMPintoPDFobject=\count353
-\everyMPtoPDFconversion=\toks46
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count344
+\scratchdimen=\dimen311
+\scratchbox=\box85
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen312
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks47
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 51.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(c:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+(c:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count354
+\c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
- (./my_beamer.out) (./my_beamer.out)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+(./my_beamer.out) (./my_beamer.out)
 \@outlinefile=\write5
 \openout5 = `my_beamer.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 50.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 51.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 50.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 51.
 \symnumbers=\mathgroup8
 \sympureletters=\mathgroup9
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 50.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 50.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 50.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 50.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 50.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 50.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 50.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 50.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 50.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 50.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 50.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 51.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 50.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 51.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 50.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 50.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 50.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 50.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 50.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 50.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 50.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 51.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 5
-0.
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 5
-0.
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 50.
+ut line 51.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
-onary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
+glish.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliograph
-y-dictionary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliography-dictio
+nary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-environment
--dictionary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-environment-diction
+ary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-months-dict
-ionary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-months-dictionary-E
+nglish.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-numbers-dic
-tionary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-numbers-dictionary-
+English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dic
-tionary-English.dict
+(c:/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dictionary-
+English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+(c:/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
 )
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 51.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (./my_beamer.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+ (./my_beamer.nav) [1
+
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./figures//iso
+tropic.pdf_tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 5
-0.
+6.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 50
+(c:/texlive/2021/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 56
 .
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
+(c:/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 50.
+ut line 56.
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+(c:/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [1
+)
+<figures//isotropic.pdf, id=28, page=1, 468.17635pt x 511.00076pt>
+File: figures//isotropic.pdf Graphic file (type pdf)
+<use figures//isotropic.pdf, page 1>
+Package pdftex.def Info: figures//isotropic.pdf , page1 used on input line 58.
+(pdftex.def)             Requested size: 123.43443pt x 134.7206pt.
+)
+(./figures//kinematic.pdf_tex
+<figures//kinematic.pdf, id=29, page=1, 464.4642pt x 537.84863pt>
+File: figures//kinematic.pdf Graphic file (type pdf)
+<use figures//kinematic.pdf, page 1>
+Package pdftex.def Info: figures//kinematic.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 123.43443pt x 142.93134pt.
+<figures//kinematic.pdf, id=30, page=2, 464.4642pt x 537.84863pt>
+File: figures//kinematic.pdf Graphic file (type pdf)
+<use figures//kinematic.pdf, page 2>
+Package pdftex.def Info: figures//kinematic.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 123.43443pt x 142.93134pt.
+<figures//kinematic.pdf, id=31, page=3, 464.4642pt x 537.84863pt>
+File: figures//kinematic.pdf Graphic file (type pdf)
+<use figures//kinematic.pdf, page 3>
+Package pdftex.def Info: figures//kinematic.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 123.43443pt x 142.93134pt.
+)
+<figures//stainless_steell_biomedical.png, id=32, 1236.62pt x 666.49pt>
+File: figures//stainless_steell_biomedical.png Graphic file (type png)
+<use figures//stainless_steell_biomedical.png>
+Package pdftex.def Info: figures//stainless_steell_biomedical.png  used on inpu
+t line 104.
+(pdftex.def)             Requested size: 123.43443pt x 66.52069pt.
+ [2
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2
+ <./figures//isotropic.pdf> <./figures//kinematic.pdf
 
-] [3
+pdfTeX warning: pdflatex.exe (file ./figures//kinematic.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./figures//kinematic.pdf
 
-] [4
+pdfTeX warning: pdflatex.exe (file ./figures//kinematic.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./figures//kinematic.pdf
 
-] [5
+pdfTeX warning: pdflatex.exe (file ./figures//kinematic.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+> <./figures//stainless_steell_biomedical.png>]
+<figures//patch_def.png, id=45, 1156.32pt x 1262.7175pt>
+File: figures//patch_def.png Graphic file (type png)
+<use figures//patch_def.png>
+Package pdftex.def Info: figures//patch_def.png  used on input line 150.
+(pdftex.def)             Requested size: 74.05827pt x 80.86566pt.
 
-]
+(./figures//patch_175_1054_tex.pdf_tex
+<figures//patch_175_1054_tex.pdf, id=46, page=1, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 1>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page1 used on input 
+line 56.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+LaTeX Font Info:    Calculating math sizes for size <3> on input line 57.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.09999> not available
+(Font)              size <3> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <1.5> not available
+(Font)              size <3> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.09999> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.5> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <3> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <2.09999> not available
+(Font)              size <5> substituted on input line 57.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <1.5> not available
+(Font)              size <5> substituted on input line 57.
+
+<figures//patch_175_1054_tex.pdf, id=47, page=2, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 2>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page2 used on input 
+line 58.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=48, page=3, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 3>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page3 used on input 
+line 60.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=49, page=4, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 4>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page4 used on input 
+line 62.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=50, page=5, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 5>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page5 used on input 
+line 64.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=51, page=6, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 6>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page6 used on input 
+line 66.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=52, page=7, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 7>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page7 used on input 
+line 68.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=53, page=8, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 8>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page8 used on input 
+line 70.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=54, page=9, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 9>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page9 used on input 
+line 72.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=55, page=10, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 10>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page10 used on input
+ line 74.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=56, page=11, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 11>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page11 used on input
+ line 76.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+<figures//patch_175_1054_tex.pdf, id=57, page=12, 475.1156pt x 235.44777pt>
+File: figures//patch_175_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_175_1054_tex.pdf, page 12>
+Package pdftex.def Info: figures//patch_175_1054_tex.pdf , page12 used on input
+ line 78.
+(pdftex.def)             Requested size: 105.33246pt x 52.19745pt.
+) (./figures//patch_375_1054_tex.pdf_tex
+<figures//patch_375_1054_tex.pdf, id=58, page=1, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 1>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page1 used on input 
+line 56.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=59, page=2, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 2>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page2 used on input 
+line 58.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=60, page=3, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 3>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page3 used on input 
+line 60.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=61, page=4, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 4>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page4 used on input 
+line 62.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=62, page=5, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 5>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page5 used on input 
+line 64.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=63, page=6, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 6>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page6 used on input 
+line 66.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=64, page=7, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 7>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page7 used on input 
+line 68.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+<figures//patch_375_1054_tex.pdf, id=65, page=8, 473.87743pt x 235.99088pt>
+File: figures//patch_375_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_375_1054_tex.pdf, page 8>
+Package pdftex.def Info: figures//patch_375_1054_tex.pdf , page8 used on input 
+line 70.
+(pdftex.def)             Requested size: 105.33246pt x 52.45468pt.
+)
+(./figures//patch_425_1054_tex.pdf_tex
+<figures//patch_425_1054_tex.pdf, id=66, page=1, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 1>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page1 used on input 
+line 56.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=67, page=2, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 2>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page2 used on input 
+line 58.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=68, page=3, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 3>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page3 used on input 
+line 60.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=69, page=4, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 4>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page4 used on input 
+line 62.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=70, page=5, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 5>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page5 used on input 
+line 64.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=71, page=6, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 6>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page6 used on input 
+line 66.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=72, page=7, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 7>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page7 used on input 
+line 68.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=73, page=8, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 8>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page8 used on input 
+line 70.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+<figures//patch_425_1054_tex.pdf, id=74, page=9, 470.60779pt x 233.59372pt>
+File: figures//patch_425_1054_tex.pdf Graphic file (type pdf)
+<use figures//patch_425_1054_tex.pdf, page 9>
+Package pdftex.def Info: figures//patch_425_1054_tex.pdf , page9 used on input 
+line 72.
+(pdftex.def)             Requested size: 105.33246pt x 52.28186pt.
+)
+(./figures//patch_sigma_vs_harden_tex.pdf_tex
+<figures//patch_sigma_vs_harden_tex.pdf, id=75, page=1, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 1>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page1 used on
+ input line 56.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=76, page=2, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 2>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page2 used on
+ input line 59.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=77, page=3, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 3>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page3 used on
+ input line 61.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=78, page=4, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 4>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page4 used on
+ input line 63.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=79, page=5, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 5>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page5 used on
+ input line 65.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=80, page=6, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 6>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page6 used on
+ input line 67.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=81, page=7, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 7>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page7 used on
+ input line 69.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=82, page=8, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 8>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page8 used on
+ input line 71.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=83, page=9, 376.23885pt x 236.4331p
+t>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 9>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page9 used on
+ input line 73.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=84, page=10, 376.23885pt x 236.4331
+pt>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 10>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page10 used o
+n input line 75.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=85, page=11, 376.23885pt x 236.4331
+pt>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 11>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page11 used o
+n input line 78.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+<figures//patch_sigma_vs_harden_tex.pdf, id=86, page=12, 376.23885pt x 236.4331
+pt>
+File: figures//patch_sigma_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_harden_tex.pdf, page 12>
+Package pdftex.def Info: figures//patch_sigma_vs_harden_tex.pdf , page12 used o
+n input line 80.
+(pdftex.def)             Requested size: 123.43443pt x 77.56497pt.
+)
+(./figures//patch_sigma_vs_sigmay_tex.pdf_tex
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=87, page=1, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 1>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page1 used on
+ input line 56.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=88, page=2, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 2>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page2 used on
+ input line 58.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=89, page=3, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 3>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page3 used on
+ input line 60.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=90, page=4, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 4>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page4 used on
+ input line 62.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=91, page=5, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 5>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page5 used on
+ input line 64.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=92, page=6, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 6>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page6 used on
+ input line 66.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=93, page=7, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 7>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page7 used on
+ input line 68.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=94, page=8, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 8>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page8 used on
+ input line 70.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=95, page=9, 418.08057pt x 220.88226
+pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 9>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page9 used on
+ input line 72.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=96, page=10, 418.08057pt x 220.8822
+6pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 10>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page10 used o
+n input line 74.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=97, page=11, 418.08057pt x 220.8822
+6pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 11>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page11 used o
+n input line 76.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+<figures//patch_sigma_vs_sigmay_tex.pdf, id=98, page=12, 418.08057pt x 220.8822
+6pt>
+File: figures//patch_sigma_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//patch_sigma_vs_sigmay_tex.pdf, page 12>
+Package pdftex.def Info: figures//patch_sigma_vs_sigmay_tex.pdf , page12 used o
+n input line 78.
+(pdftex.def)             Requested size: 139.88943pt x 73.90585pt.
+)
+(./figures//patch_contour.pdf_tex
+<figures//patch_contour.pdf, id=99, page=1, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 1>
+Package pdftex.def Info: figures//patch_contour.pdf , page1 used on input line 
+56.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=100, page=2, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 2>
+Package pdftex.def Info: figures//patch_contour.pdf , page2 used on input line 
+58.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=101, page=3, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 3>
+Package pdftex.def Info: figures//patch_contour.pdf , page3 used on input line 
+60.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=102, page=4, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 4>
+Package pdftex.def Info: figures//patch_contour.pdf , page4 used on input line 
+62.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=103, page=5, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 5>
+Package pdftex.def Info: figures//patch_contour.pdf , page5 used on input line 
+64.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=104, page=6, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 6>
+Package pdftex.def Info: figures//patch_contour.pdf , page6 used on input line 
+66.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=105, page=7, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 7>
+Package pdftex.def Info: figures//patch_contour.pdf , page7 used on input line 
+68.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=106, page=8, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 8>
+Package pdftex.def Info: figures//patch_contour.pdf , page8 used on input line 
+70.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=107, page=9, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 9>
+Package pdftex.def Info: figures//patch_contour.pdf , page9 used on input line 
+72.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=108, page=10, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 10>
+Package pdftex.def Info: figures//patch_contour.pdf , page10 used on input line
+ 74.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+<figures//patch_contour.pdf, id=109, page=11, 549.12845pt x 360.8586pt>
+File: figures//patch_contour.pdf Graphic file (type pdf)
+<use figures//patch_contour.pdf, page 11>
+Package pdftex.def Info: figures//patch_contour.pdf , page11 used on input line
+ 76.
+(pdftex.def)             Requested size: 131.66507pt x 86.51973pt.
+) [3
+
+ <./figures//patch_def.png> <./figures//patch_175_1054_tex.pdf> <./figures//pat
+ch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_175_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_175_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_375_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_375_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_425_1054_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_425_1054_tex.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_harden_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_sigma_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_sigma_vs_sigmay_tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//patch_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>]
+<figures//plate_def.png, id=256, 3287.28125pt x 3345.49875pt>
+File: figures//plate_def.png Graphic file (type png)
+<use figures//plate_def.png>
+Package pdftex.def Info: figures//plate_def.png  used on input line 207.
+(pdftex.def)             Requested size: 123.43443pt x 125.5784pt.
+<figures//plate_175_1145.pdf, id=257, 301.125pt x 346.29375pt>
+File: figures//plate_175_1145.pdf Graphic file (type pdf)
+<use figures//plate_175_1145.pdf>
+Package pdftex.def Info: figures//plate_175_1145.pdf  used on input line 207.
+(pdftex.def)             Requested size: 80.23163pt x 92.2641pt.
+<figures//plate_250_1509.pdf, id=258, 301.125pt x 320.19624pt>
+File: figures//plate_250_1509.pdf Graphic file (type pdf)
+<use figures//plate_250_1509.pdf>
+Package pdftex.def Info: figures//plate_250_1509.pdf  used on input line 207.
+(pdftex.def)             Requested size: 80.23163pt x 85.31085pt.
+<figures//plate_425_1054.pdf, id=259, 301.125pt x 301.125pt>
+File: figures//plate_425_1054.pdf Graphic file (type pdf)
+<use figures//plate_425_1054.pdf>
+Package pdftex.def Info: figures//plate_425_1054.pdf  used on input line 207.
+(pdftex.def)             Requested size: 80.23163pt x 80.22964pt.
+ (./figures//sigmayy_vs_s_tex.pdf_tex
+<figures//sigmayy_vs_s_tex.pdf, id=260, page=1, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 1>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page1 used on input li
+ne 56.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=261, page=2, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 2>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page2 used on input li
+ne 58.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=262, page=3, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 3>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page3 used on input li
+ne 60.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=263, page=4, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 4>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page4 used on input li
+ne 62.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=264, page=5, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 5>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page5 used on input li
+ne 64.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=265, page=6, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 6>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page6 used on input li
+ne 66.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=266, page=7, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 7>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page7 used on input li
+ne 68.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=267, page=8, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 8>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page8 used on input li
+ne 70.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=268, page=9, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 9>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page9 used on input li
+ne 72.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=269, page=10, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 10>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page10 used on input l
+ine 74.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=270, page=11, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 11>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page11 used on input l
+ine 76.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=271, page=12, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 12>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page12 used on input l
+ine 78.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=272, page=13, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 13>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page13 used on input l
+ine 80.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+<figures//sigmayy_vs_s_tex.pdf, id=273, page=14, 373.37196pt x 234.91664pt>
+File: figures//sigmayy_vs_s_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_vs_s_tex.pdf, page 14>
+Package pdftex.def Info: figures//sigmayy_vs_s_tex.pdf , page14 used on input l
+ine 82.
+(pdftex.def)             Requested size: 102.861pt x 64.71518pt.
+) (./figures//plate_contour.pdf_tex
+<figures//plate_contour.pdf, id=274, page=1, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 1>
+Package pdftex.def Info: figures//plate_contour.pdf , page1 used on input line 
+56.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=275, page=2, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 2>
+Package pdftex.def Info: figures//plate_contour.pdf , page2 used on input line 
+58.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=276, page=3, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 3>
+Package pdftex.def Info: figures//plate_contour.pdf , page3 used on input line 
+60.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=277, page=4, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 4>
+Package pdftex.def Info: figures//plate_contour.pdf , page4 used on input line 
+62.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=278, page=5, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 5>
+Package pdftex.def Info: figures//plate_contour.pdf , page5 used on input line 
+64.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=279, page=6, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 6>
+Package pdftex.def Info: figures//plate_contour.pdf , page6 used on input line 
+66.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=280, page=7, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 7>
+Package pdftex.def Info: figures//plate_contour.pdf , page7 used on input line 
+68.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=281, page=8, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 8>
+Package pdftex.def Info: figures//plate_contour.pdf , page8 used on input line 
+70.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=282, page=9, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 9>
+Package pdftex.def Info: figures//plate_contour.pdf , page9 used on input line 
+72.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=283, page=10, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 10>
+Package pdftex.def Info: figures//plate_contour.pdf , page10 used on input line
+ 74.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+<figures//plate_contour.pdf, id=284, page=11, 572.10222pt x 373.91467pt>
+File: figures//plate_contour.pdf Graphic file (type pdf)
+<use figures//plate_contour.pdf, page 11>
+Package pdftex.def Info: figures//plate_contour.pdf , page11 used on input line
+ 76.
+(pdftex.def)             Requested size: 106.97316pt x 69.91483pt.
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 78.
+
+) (./figures//plate_v_vs_harden_tex.pdf_tex
+<figures//plate_v_vs_harden_tex.pdf, id=285, page=1, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 1>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page1 used on inp
+ut line 56.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=286, page=2, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 2>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page2 used on inp
+ut line 58.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=287, page=3, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 3>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page3 used on inp
+ut line 60.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=288, page=4, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 4>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page4 used on inp
+ut line 62.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=289, page=5, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 5>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page5 used on inp
+ut line 64.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=290, page=6, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 6>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page6 used on inp
+ut line 66.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=291, page=7, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 7>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page7 used on inp
+ut line 68.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=292, page=8, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 8>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page8 used on inp
+ut line 70.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+<figures//plate_v_vs_harden_tex.pdf, id=293, page=9, 314.75237pt x 208.62314pt>
+
+File: figures//plate_v_vs_harden_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_harden_tex.pdf, page 9>
+Package pdftex.def Info: figures//plate_v_vs_harden_tex.pdf , page9 used on inp
+ut line 72.
+(pdftex.def)             Requested size: 90.51817pt x 59.99619pt.
+)
+(./figures//plate_v_vs_sigmay_tex.pdf_tex
+<figures//plate_v_vs_sigmay_tex.pdf, id=294, page=1, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 1>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page1 used on inp
+ut line 56.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=295, page=2, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 2>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page2 used on inp
+ut line 58.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=296, page=3, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 3>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page3 used on inp
+ut line 60.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=297, page=4, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 4>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page4 used on inp
+ut line 62.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=298, page=5, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 5>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page5 used on inp
+ut line 64.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=299, page=6, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 6>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page6 used on inp
+ut line 66.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=300, page=7, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 7>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page7 used on inp
+ut line 68.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=301, page=8, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 8>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page8 used on inp
+ut line 70.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+<figures//plate_v_vs_sigmay_tex.pdf, id=302, page=9, 375.99257pt x 201.62405pt>
+
+File: figures//plate_v_vs_sigmay_tex.pdf Graphic file (type pdf)
+<use figures//plate_v_vs_sigmay_tex.pdf, page 9>
+Package pdftex.def Info: figures//plate_v_vs_sigmay_tex.pdf , page9 used on inp
+ut line 72.
+(pdftex.def)             Requested size: 111.09163pt x 59.57086pt.
+) [4
+
+ <./figures//plate_def.png> <./figures//plate_175_1145.pdf> <./figures//plate_2
+50_1509.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_250_1509.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./figures//plate_425_1054.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_425_1054.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_vs_s_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_vs_s_tex.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_contour.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_contour.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_harden_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_harden_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures//plate_v_vs_sigmay_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>]
+<figures//sigmayy_L8.pdf, id=432, 301.125pt x 244.915pt>
+File: figures//sigmayy_L8.pdf Graphic file (type pdf)
+<use figures//sigmayy_L8.pdf>
+Package pdftex.def Info: figures//sigmayy_L8.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 58.56404pt.
+<figures//sigmayy_L4.pdf, id=433, 301.125pt x 244.915pt>
+File: figures//sigmayy_L4.pdf Graphic file (type pdf)
+<use figures//sigmayy_L4.pdf>
+Package pdftex.def Info: figures//sigmayy_L4.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 58.56404pt.
+<figures//K_L8.pdf, id=434, 361.35pt x 239.89626pt>
+File: figures//K_L8.pdf Graphic file (type pdf)
+<use figures//K_L8.pdf>
+Package pdftex.def Info: figures//K_L8.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 47.80269pt.
+<figures//K_L4.pdf, id=435, 361.35pt x 240.9pt>
+File: figures//K_L4.pdf Graphic file (type pdf)
+<use figures//K_L4.pdf>
+Package pdftex.def Info: figures//K_L4.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 48.0027pt.
+<figures//sigmayy_L2.pdf, id=436, 301.125pt x 244.915pt>
+File: figures//sigmayy_L2.pdf Graphic file (type pdf)
+<use figures//sigmayy_L2.pdf>
+Package pdftex.def Info: figures//sigmayy_L2.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 58.56404pt.
+<figures//sigmayy_3L4.pdf, id=437, 301.125pt x 244.915pt>
+File: figures//sigmayy_3L4.pdf Graphic file (type pdf)
+<use figures//sigmayy_3L4.pdf>
+Package pdftex.def Info: figures//sigmayy_3L4.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 58.56404pt.
+<figures//K_L2.pdf, id=438, 361.35pt x 240.9pt>
+File: figures//K_L2.pdf Graphic file (type pdf)
+<use figures//K_L2.pdf>
+Package pdftex.def Info: figures//K_L2.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 48.0027pt.
+<figures//K_3L4.pdf, id=439, 361.35pt x 240.9pt>
+File: figures//K_3L4.pdf Graphic file (type pdf)
+<use figures//K_3L4.pdf>
+Package pdftex.def Info: figures//K_3L4.pdf  used on input line 243.
+(pdftex.def)             Requested size: 72.00394pt x 48.0027pt.
+<figures//K.pdf, id=440, 361.35pt x 235.88126pt>
+File: figures//K.pdf Graphic file (type pdf)
+<use figures//K.pdf>
+Package pdftex.def Info: figures//K.pdf  used on input line 243.
+(pdftex.def)             Requested size: 197.49585pt x 128.92165pt.
+
+Overfull \vbox (10.79611pt too high) detected at line 243
+ []
+
+[5
+
+ <./figures//sigmayy_L8.pdf> <./figures//sigmayy_L4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L4.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./figures//K_L8.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//K_L8.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./figures//K_L4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//K_L4.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./figures//sigmayy_L2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L2.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./figures//sigmayy_3L4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_3L4.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+> <./figures//K_L2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//K_L2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./figures//K_3L4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//K_3L4.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+> <./figures//K.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//K.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>]
+<figures//patch_isotropic.pdf, id=560, 361.35pt x 220.825pt>
+File: figures//patch_isotropic.pdf Graphic file (type pdf)
+<use figures//patch_isotropic.pdf>
+Package pdftex.def Info: figures//patch_isotropic.pdf  used on input line 303.
+(pdftex.def)             Requested size: 72.00394pt x 44.00247pt.
+<figures//patch_kinematic.pdf, id=561, 361.35pt x 220.825pt>
+File: figures//patch_kinematic.pdf Graphic file (type pdf)
+<use figures//patch_kinematic.pdf>
+Package pdftex.def Info: figures//patch_kinematic.pdf  used on input line 303.
+(pdftex.def)             Requested size: 72.00394pt x 44.00247pt.
+<figures//load.pdf, id=562, 361.35pt x 221.82875pt>
+File: figures//load.pdf Graphic file (type pdf)
+<use figures//load.pdf>
+Package pdftex.def Info: figures//load.pdf  used on input line 303.
+(pdftex.def)             Requested size: 115.20674pt x 70.72263pt.
+<figures//plate_isotropic.pdf, id=563, 351.3125pt x 238.8925pt>
+File: figures//plate_isotropic.pdf Graphic file (type pdf)
+<use figures//plate_isotropic.pdf>
+Package pdftex.def Info: figures//plate_isotropic.pdf  used on input line 303.
+(pdftex.def)             Requested size: 72.00394pt x 48.96234pt.
+<figures//plate_kinematic.pdf, id=564, 351.3125pt x 237.88875pt>
+File: figures//plate_kinematic.pdf Graphic file (type pdf)
+<use figures//plate_kinematic.pdf>
+Package pdftex.def Info: figures//plate_kinematic.pdf  used on input line 303.
+(pdftex.def)             Requested size: 72.00394pt x 48.7566pt.
+<figures//cook_isotropic_v.pdf, id=565, 351.3125pt x 253.94875pt>
+File: figures//cook_isotropic_v.pdf Graphic file (type pdf)
+<use figures//cook_isotropic_v.pdf>
+Package pdftex.def Info: figures//cook_isotropic_v.pdf  used on input line 303.
+
+(pdftex.def)             Requested size: 123.43443pt x 89.22438pt.
+<figures//cook_kinematic_v.pdf, id=566, 351.3125pt x 227.85126pt>
+File: figures//cook_kinematic_v.pdf Graphic file (type pdf)
+<use figures//cook_kinematic_v.pdf>
+Package pdftex.def Info: figures//cook_kinematic_v.pdf  used on input line 303.
+
+(pdftex.def)             Requested size: 123.43443pt x 80.05508pt.
+ [6
+
+ <./figures//patch_isotropic.pdf> <./figures//patch_kinematic.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//patch_kinematic.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./figures//load.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//load.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./figures//plate_isotropic.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_isotropic.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./figures//plate_kinematic.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//plate_kinematic.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./figures//cook_isotropic_v.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//cook_isotropic_v.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <./figures//cook_kinematic_v.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//cook_kinematic_v.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>]
 \tf@nav=\write6
 \openout6 = `my_beamer.nav'.
 
@@ -1142,26 +2447,34 @@ thkerncmss.
 \openout8 = `my_beamer.snm'.
 
  (./my_beamer.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.5pt have occurred.
+
 Package rerunfilecheck Info: File `my_beamer.out' has not changed.
 (rerunfilecheck)             Checksum: 65F2C9F0DC09CB7504E7C1CFD3FF7492;111.
  ) 
 Here is how much of TeX's memory you used:
- 24756 strings out of 478994
- 483036 string characters out of 5858184
- 743409 words of memory out of 5000000
- 41683 multiletter control sequences out of 15000+600000
- 413464 words of font info for 65 fonts, out of 8000000 for 9000
+ 26936 strings out of 478579
+ 552652 string characters out of 5857457
+ 837362 words of memory out of 5000000
+ 44215 multiletter control sequences out of 15000+600000
+ 418437 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,11n,132p,434b,725s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on my_beamer.pdf (5 pages, 57058 bytes).
+ 128i,21n,124p,434b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021
+/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2021/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c
+:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on my_beamer.pdf (6 pages, 7394070 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 738 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 14 named destinations out of 1000 (max. 500000)
+ 716 words of extra memory for PDF output out of 10000 (max. 10000000)
 

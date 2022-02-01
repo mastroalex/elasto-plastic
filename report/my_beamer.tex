@@ -20,6 +20,7 @@
 \usepackage{textcomp}
 \usepackage{subcaption}
 \definecolor{myred}{rgb}{0.545, 0.172, 0.031}
+\DeclareUnicodeCharacter{25CF}{\lgblkcircle}
 %\usepackage{cleveref}
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
@@ -57,21 +58,248 @@ Università degli Studi di Roma Tor Vergata% Your institution for the title page
 %------------------------------------------------
 \section{First Section}
 %------------------------------------------------
+\begin{frame}{Structural behaviour}
+	\begin{figure}
+		\begin{minipage}[c]{0.3\linewidth}
+			\tiny{
+\def\svgwidth{\linewidth}
+\input{isotropic.pdf_tex}}
+		\end{minipage}\hfill
+	\begin{minipage}[c]{0.3\linewidth}
+		\tiny{
+\def\svgwidth{\linewidth}
+\input{kinematic.pdf_tex}}
+	\end{minipage}\hfill
+\begin{minipage}{0.3\linewidth}
+	\centering
+	\includegraphics[width=\linewidth]{stainless_steell_biomedical.png}
+\vfill
+	\tiny{
+\begin{tabular}{c|c|c}
+
+	$\sigma_y$ & $\sigma_u$ & $\varepsilon_u$ \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+	\hline
+	&  &  \\
+
+\end{tabular}}\vfill
+\end{minipage}\hfill
+
+		\end{figure}
+\end{frame}
 
 \begin{frame}{Patch test}
+ 	\begin{figure}
+ 	\begin{minipage}[c]{0.2\linewidth}
+\includegraphics[width=0.9\linewidth]{patch_def.png}
+ 	\end{minipage}\hfill
+ 	\begin{minipage}[c]{0.8\linewidth}
+ 		\begin{minipage}{0.32\linewidth}
+ 			    \fontsize{3pt}{4pt}\selectfont{
+ 			\def\svgwidth{\linewidth}
+ 			\input{patch_175_1054_tex.pdf_tex}}
+ 		\end{minipage}\hfill
+ 		\begin{minipage}{0.32\linewidth}
+ 		    \fontsize{3pt}{4pt}\selectfont{
+ 			\def\svgwidth{\linewidth}
+ 			\input{patch_375_1054_tex.pdf_tex}}
+ 	\end{minipage}\hfill	\begin{minipage}{0.32\linewidth}
+ 	    \fontsize{3pt}{4pt}\selectfont{
+ 		\def\svgwidth{\linewidth}
+ 		\input{patch_425_1054_tex.pdf_tex}}
+ \end{minipage}\hfill
+ 	\end{minipage}\hfill
+\end{figure}
+%%%%%
+\begin{figure}
+ \begin{minipage}{\linewidth}
+  	\begin{minipage}[c]{0.3\linewidth}
+ 	 \fontsize{3pt}{4pt}\selectfont{
+ 		\def\svgwidth{\linewidth}
+ 		\input{patch_sigma_vs_harden_tex.pdf_tex}}
+ \end{minipage}\hfill
+  	\begin{minipage}[c]{0.34\linewidth}
+	 \fontsize{3pt}{4pt}\selectfont{
+		\def\svgwidth{\linewidth}
+		\input{patch_sigma_vs_sigmay_tex.pdf_tex}}
+\end{minipage}\hfill
+  	\begin{minipage}[c]{0.32\linewidth}
+	 \fontsize{3pt}{4pt}\selectfont{
+		\def\svgwidth{\linewidth}
+		\input{patch_contour.pdf_tex}}
+\end{minipage}\hfill
+%%%%%%%%%%%%%%%%%
+ \end{minipage}
+\end{figure}
  
 \end{frame}
 
 \begin{frame}{Crack plate}
 	
+	\begin{figure}
+		\begin{minipage}{\linewidth}
+			\begin{minipage}[c]{0.3\linewidth}
+\includegraphics[width=\linewidth]{plate_def.png}
+			\end{minipage}\hfill
+		\begin{minipage}{0.65\linewidth}
+		\begin{minipage}[b]{0.3\linewidth}
+		\includegraphics[width=\linewidth]{plate_175_1145.pdf}
+						\centering
+					 \fontsize{3pt}{4pt}\selectfont{
+			$\sigma_y=175\text { MPa}$\\$H=1145\text { MPa}$}
+	\end{minipage}\hfill
+			\begin{minipage}[b]{0.3\linewidth}
+				\centering
+					\includegraphics[width=\linewidth]{plate_250_1509.pdf}
+								 \fontsize{3pt}{4pt}\selectfont{
+						$\sigma_y=250\text { MPa}$\\$H=1509\text { MPa}$}
+			\end{minipage}\hfill
+			\begin{minipage}[b]{0.3\linewidth}
+								\centering
+				\includegraphics[width=\linewidth]{plate_425_1054.pdf}
+					 \fontsize{3pt}{4pt}\selectfont{
+					$\sigma_y=425\text { MPa}$\\$H=1054\text { MPa}$}
+			\end{minipage}\hfill
+			%%%%%%%%%%%%%%%%%
+		\end{minipage}
+\end{minipage}
+%\pause
+\begin{minipage}{\linewidth}
+	\centering
+		\begin{minipage}[c]{0.25\linewidth}
+ \fontsize{3pt}{4pt}\selectfont{
+	\def\svgwidth{\linewidth}
+	\input{sigmayy_vs_s_tex.pdf_tex}}
+	\end{minipage}\hfill
+	\begin{minipage}[c]{0.26\linewidth}
+	\fontsize{3pt}{4pt}\selectfont{
+		\def\svgwidth{\linewidth}
+		\input{plate_contour.pdf_tex}}
+\end{minipage}\hfill
+	\begin{minipage}[c]{0.22\linewidth}
+	 \fontsize{3pt}{4pt}\selectfont{
+		\def\svgwidth{\linewidth}
+		\input{plate_v_vs_harden_tex.pdf_tex}}
+	\end{minipage}\hfill
+	\begin{minipage}[c]{0.27\linewidth}
+	 \fontsize{3pt}{4pt}\selectfont{
+	\def\svgwidth{\linewidth}
+	\input{plate_v_vs_sigmay_tex.pdf_tex}}
+\end{minipage}\hfill
+	\end{minipage}
+	\end{figure}
+
 \end{frame}
 
 \begin{frame}{Stress intensity factor}
-	
+	\begin{figure}
+	\begin{minipage}{0.35\linewidth}
+		\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{sigmayy_L8.pdf}
+		\end{minipage}\hfill
+		\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{sigmayy_L4.pdf}
+		\end{minipage}\hfill
+		\begin{minipage}[c]{0.5\linewidth}
+		\includegraphics[width=\linewidth]{K_L8.pdf}
+	\end{minipage}\hfill
+	\begin{minipage}[c]{0.5\linewidth}
+		\includegraphics[width=\linewidth]{K_L4.pdf}
+	\end{minipage}\hfill
+		\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{sigmayy_L2.pdf}
+		\end{minipage}\hfill
+		\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{sigmayy_3L4.pdf}
+		\end{minipage}\hfill
+		\begin{minipage}[c]{0.5\linewidth}
+		\includegraphics[width=\linewidth]{K_L2.pdf}
+	\end{minipage}\hfill
+	\begin{minipage}[c]{0.5\linewidth}
+		\includegraphics[width=\linewidth]{K_3L4.pdf}
+	\end{minipage}\hfill
+	\end{minipage}
+	\begin{minipage}{0.6\linewidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{K.pdf}
+\end{minipage}
+%%%%%%%%%%%%%%%%%
+\end{figure}
 \end{frame}
 
 \begin{frame}{Isotropic and kinematic hardening}
-	
+		\begin{figure}
+		\begin{minipage}{0.35\linewidth}
+			\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{patch_isotropic.pdf}
+			\end{minipage}\hfill
+			\begin{minipage}[c]{0.5\linewidth}
+				\includegraphics[width=\linewidth]{patch_kinematic.pdf}
+			\end{minipage}\hfill
+		\begin{minipage}{\linewidth}
+			\centering
+			\includegraphics[width=0.8\linewidth]{load.pdf}
+		\end{minipage}\hfill
+			\begin{minipage}{0.5\linewidth}
+			\centering
+			\includegraphics[width=\linewidth]{plate_isotropic.pdf}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\linewidth}
+			\centering
+			\includegraphics[width=\linewidth]{plate_kinematic.pdf}
+		\end{minipage}\hfill
+		\end{minipage}
+		\begin{minipage}{0.6\linewidth}
+			\begin{minipage}{0.5\linewidth}
+				\centering
+FRAME
+			\end{minipage}\hfill
+			\begin{minipage}{0.5\linewidth}
+				\centering
+FRAME
+			\end{minipage}\hfill
+		\begin{minipage}{0.5\linewidth}
+			\centering
+			FRAME
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\linewidth}
+			\centering
+			FRAME
+		\end{minipage}\hfill
+	\begin{minipage}{0.5\linewidth}
+		\centering
+		FRAME
+	\end{minipage}\hfill
+	\begin{minipage}{0.5\linewidth}
+		\centering
+		FRAME
+	\end{minipage}\hfill
+				\begin{minipage}{0.5\linewidth}
+			\centering
+			\includegraphics[width=\linewidth]{cook_isotropic_v.pdf}
+				\end{minipage}\hfill
+				\begin{minipage}{0.5\linewidth}
+				\centering
+				\includegraphics[width=\linewidth]{cook_kinematic_v.pdf}
+			\end{minipage}\hfill
+		\end{minipage}\hfill
+		%%%%%%%%%%%%%%%%%
+	\end{figure}
 \end{frame}
 
 \end{document}
