@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.28)  1 FEB 2022 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.28)  1 FEB 2022 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,7 +1043,7 @@ Package pdftex.def Info: figures//kinematic.pdf , page3 used on input line 60.
 File: figures//stainless_steell_biomedical.png Graphic file (type png)
 <use figures//stainless_steell_biomedical.png>
 Package pdftex.def Info: figures//stainless_steell_biomedical.png  used on inpu
-t line 104.
+t line 103.
 (pdftex.def)             Requested size: 123.43443pt x 66.52069pt.
  [2
 
@@ -1063,7 +1063,7 @@ ltiple pdfs with page group included in a single page
 <figures//patch_def.png, id=45, 1156.32pt x 1262.7175pt>
 File: figures//patch_def.png Graphic file (type png)
 <use figures//patch_def.png>
-Package pdftex.def Info: figures//patch_def.png  used on input line 150.
+Package pdftex.def Info: figures//patch_def.png  used on input line 149.
 (pdftex.def)             Requested size: 74.05827pt x 80.86566pt.
 
 (./figures//patch_175_1054_tex.pdf_tex
@@ -1801,22 +1801,22 @@ pdfTeX warning: pdflatex.exe (file ./figures//patch_contour.pdf): PDF inclusion
 <figures//plate_def.png, id=256, 3287.28125pt x 3345.49875pt>
 File: figures//plate_def.png Graphic file (type png)
 <use figures//plate_def.png>
-Package pdftex.def Info: figures//plate_def.png  used on input line 207.
+Package pdftex.def Info: figures//plate_def.png  used on input line 206.
 (pdftex.def)             Requested size: 123.43443pt x 125.5784pt.
 <figures//plate_175_1145.pdf, id=257, 301.125pt x 346.29375pt>
 File: figures//plate_175_1145.pdf Graphic file (type pdf)
 <use figures//plate_175_1145.pdf>
-Package pdftex.def Info: figures//plate_175_1145.pdf  used on input line 207.
+Package pdftex.def Info: figures//plate_175_1145.pdf  used on input line 206.
 (pdftex.def)             Requested size: 80.23163pt x 92.2641pt.
 <figures//plate_250_1509.pdf, id=258, 301.125pt x 320.19624pt>
 File: figures//plate_250_1509.pdf Graphic file (type pdf)
 <use figures//plate_250_1509.pdf>
-Package pdftex.def Info: figures//plate_250_1509.pdf  used on input line 207.
+Package pdftex.def Info: figures//plate_250_1509.pdf  used on input line 206.
 (pdftex.def)             Requested size: 80.23163pt x 85.31085pt.
 <figures//plate_425_1054.pdf, id=259, 301.125pt x 301.125pt>
 File: figures//plate_425_1054.pdf Graphic file (type pdf)
 <use figures//plate_425_1054.pdf>
-Package pdftex.def Info: figures//plate_425_1054.pdf  used on input line 207.
+Package pdftex.def Info: figures//plate_425_1054.pdf  used on input line 206.
 (pdftex.def)             Requested size: 80.23163pt x 80.22964pt.
  (./figures//sigmayy_vs_s_tex.pdf_tex
 <figures//sigmayy_vs_s_tex.pdf, id=260, page=1, 373.37196pt x 234.91664pt>
@@ -2697,12 +2697,12 @@ File: figures//K_tex.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures//K_tex.pdf , page16 used on input line 86.
 (pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
 )
-Overfull \hbox (18.81265pt too wide) in paragraph at lines 267--267
+Overfull \hbox (18.81265pt too wide) in paragraph at lines 266--266
       [] 
  []
 
 
-Overfull \vbox (1.52837pt too high) detected at line 267
+Overfull \vbox (1.52837pt too high) detected at line 266
  []
 
 [5
@@ -3387,62 +3387,62 @@ Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page11 used on input
 <figures//iso1.png, id=617, 1355.0625pt x 1355.0625pt>
 File: figures//iso1.png Graphic file (type png)
 <use figures//iso1.png>
-Package pdftex.def Info: figures//iso1.png  used on input line 350.
+Package pdftex.def Info: figures//iso1.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//iso2.png, id=618, 1355.0625pt x 1355.0625pt>
 File: figures//iso2.png Graphic file (type png)
 <use figures//iso2.png>
-Package pdftex.def Info: figures//iso2.png  used on input line 350.
+Package pdftex.def Info: figures//iso2.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//iso3.png, id=619, 1355.0625pt x 1355.0625pt>
 File: figures//iso3.png Graphic file (type png)
 <use figures//iso3.png>
-Package pdftex.def Info: figures//iso3.png  used on input line 350.
+Package pdftex.def Info: figures//iso3.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin1.png, id=620, 1355.0625pt x 1355.0625pt>
 File: figures//kin1.png Graphic file (type png)
 <use figures//kin1.png>
-Package pdftex.def Info: figures//kin1.png  used on input line 350.
+Package pdftex.def Info: figures//kin1.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin2.png, id=621, 1355.0625pt x 1355.0625pt>
 File: figures//kin2.png Graphic file (type png)
 <use figures//kin2.png>
-Package pdftex.def Info: figures//kin2.png  used on input line 350.
+Package pdftex.def Info: figures//kin2.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin3.png, id=622, 1355.0625pt x 1355.0625pt>
 File: figures//kin3.png Graphic file (type png)
 <use figures//kin3.png>
-Package pdftex.def Info: figures//kin3.png  used on input line 350.
+Package pdftex.def Info: figures//kin3.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//iso4.png, id=623, 1355.0625pt x 1355.0625pt>
 File: figures//iso4.png Graphic file (type png)
 <use figures//iso4.png>
-Package pdftex.def Info: figures//iso4.png  used on input line 350.
+Package pdftex.def Info: figures//iso4.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//iso5.png, id=624, 1355.0625pt x 1355.0625pt>
 File: figures//iso5.png Graphic file (type png)
 <use figures//iso5.png>
-Package pdftex.def Info: figures//iso5.png  used on input line 350.
+Package pdftex.def Info: figures//iso5.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//iso6.png, id=625, 1355.0625pt x 1355.0625pt>
 File: figures//iso6.png Graphic file (type png)
 <use figures//iso6.png>
-Package pdftex.def Info: figures//iso6.png  used on input line 350.
+Package pdftex.def Info: figures//iso6.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin4.png, id=626, 1355.0625pt x 1355.0625pt>
 File: figures//kin4.png Graphic file (type png)
 <use figures//kin4.png>
-Package pdftex.def Info: figures//kin4.png  used on input line 350.
+Package pdftex.def Info: figures//kin4.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin5.png, id=627, 1355.0625pt x 1355.0625pt>
 File: figures//kin5.png Graphic file (type png)
 <use figures//kin5.png>
-Package pdftex.def Info: figures//kin5.png  used on input line 350.
+Package pdftex.def Info: figures//kin5.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
 <figures//kin6.png, id=628, 1355.0625pt x 1355.0625pt>
 File: figures//kin6.png Graphic file (type png)
 <use figures//kin6.png>
-Package pdftex.def Info: figures//kin6.png  used on input line 350.
+Package pdftex.def Info: figures//kin6.png  used on input line 349.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
  [6
 
@@ -3730,7 +3730,7 @@ r8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:
 /texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2
 021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2021/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on my_beamer.pdf (6 pages, 16674639 bytes).
+Output written on my_beamer.pdf (6 pages, 16675313 bytes).
 PDF statistics:
  710 PDF objects out of 1000 (max. 8388607)
  294 compressed objects within 3 object streams
