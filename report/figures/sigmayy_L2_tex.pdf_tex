@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{988.66900635bp}%
+    \setlength{\unitlength}{989.59165156bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,15 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.77149177)%
+  \begin{picture}(1,0.76597165)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{sigmayy_L2_tex.pdf}}%
-    \put(0.85986427,0.47190907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$565$\end{tabular}}}}%
-    \put(0.85986427,0.38262015){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$311$\end{tabular}}}}%
-    \put(0.86251547,0.30393581){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$58$\end{tabular}}}}%
-    \put(0.80153834,0.21474512){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\color{myred}{$\sigma_{yy}$}\end{tabular}}}}%
-    \put(0.78739885,0.64953774){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\max:$\\$4000$\end{tabular}}}}%
+    \put(0.85999493,0.46597855){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$348$\end{tabular}}}}%
+    \put(0.85999493,0.37677288){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$147$\end{tabular}}}}%
+    \put(0.86264365,0.2981619){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$46$\end{tabular}}}}%
+    \put(0.80172338,0.20905437){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\color{myred}{$\sigma_{yy}$}\end{tabular}}}}%
+    \put(0.78759707,0.64344161){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\max:$\\$4000$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{sigmayy_L2_tex.pdf}}%
   \end{picture}%
 \endgroup%

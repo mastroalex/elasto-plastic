@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.28)  1 FEB 2022 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.28)  3 FEB 2022 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2289,552 +2289,672 @@ nclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figures//plate_v_vs_sigmay_tex.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
 >] (./figures//sigmayy_L8_tex.pdf_tex
-<figures//sigmayy_L8_tex.pdf, id=432, page=1, 994.80968pt x 765.6103pt>
+<figures//sigmayy_L8_tex.pdf, id=432, page=1, 995.21573pt x 766.01pt>
 File: figures//sigmayy_L8_tex.pdf Graphic file (type pdf)
 <use figures//sigmayy_L8_tex.pdf, page 1>
 Package pdftex.def Info: figures//sigmayy_L8_tex.pdf , page1 used on input line
  56.
-(pdftex.def)             Requested size: 72.00394pt x 55.40894pt.
+(pdftex.def)             Requested size: 72.00394pt x 55.41449pt.
+<figures//sigmayy_L8_tex.pdf, id=433, page=2, 995.21573pt x 766.01pt>
+File: figures//sigmayy_L8_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_L8_tex.pdf, page 2>
+Package pdftex.def Info: figures//sigmayy_L8_tex.pdf , page2 used on input line
+ 62.
+(pdftex.def)             Requested size: 72.00394pt x 55.41449pt.
 ) (./figures//sigmayy_L4_tex.pdf_tex
-<figures//sigmayy_L4_tex.pdf, id=433, page=1, 1000.94858pt x 765.6103pt>
+<figures//sigmayy_L4_tex.pdf, id=434, page=1, 1001.3547pt x 758.55803pt>
 File: figures//sigmayy_L4_tex.pdf Graphic file (type pdf)
 <use figures//sigmayy_L4_tex.pdf, page 1>
 Package pdftex.def Info: figures//sigmayy_L4_tex.pdf , page1 used on input line
  56.
-(pdftex.def)             Requested size: 72.00394pt x 55.07016pt.
+(pdftex.def)             Requested size: 72.00394pt x 54.53973pt.
+<figures//sigmayy_L4_tex.pdf, id=435, page=2, 1001.3547pt x 758.55803pt>
+File: figures//sigmayy_L4_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_L4_tex.pdf, page 2>
+Package pdftex.def Info: figures//sigmayy_L4_tex.pdf , page2 used on input line
+ 62.
+(pdftex.def)             Requested size: 72.00394pt x 54.53973pt.
 )
-(./figures//K_L8_tex.pdf_tex
-<figures//K_L8_tex.pdf, id=434, page=1, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 1>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=435, page=2, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 2>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=436, page=3, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 3>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=437, page=4, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 4>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=438, page=5, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 5>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=439, page=6, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 6>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=440, page=7, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 7>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=441, page=8, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 8>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=442, page=9, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 9>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=443, page=10, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 10>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page10 used on input line 74.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=444, page=11, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 11>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page11 used on input line 76.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=445, page=12, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 12>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page12 used on input line 78.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=446, page=13, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 13>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page13 used on input line 80.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-<figures//K_L8_tex.pdf, id=447, page=14, 376.19673pt x 239.73268pt>
-File: figures//K_L8_tex.pdf Graphic file (type pdf)
-<use figures//K_L8_tex.pdf, page 14>
-Package pdftex.def Info: figures//K_L8_tex.pdf , page14 used on input line 82.
-(pdftex.def)             Requested size: 72.00394pt x 45.88255pt.
-) (./figures//K_L4_tex.pdf_tex
-<figures//K_L4_tex.pdf, id=448, page=1, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 1>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=449, page=2, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 2>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=450, page=3, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 3>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=451, page=4, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 4>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=452, page=5, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 5>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=453, page=6, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 6>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=454, page=7, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 7>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=455, page=8, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 8>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=456, page=9, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 9>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=457, page=10, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 10>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page10 used on input line 74.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=458, page=11, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 11>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page11 used on input line 76.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=459, page=12, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 12>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page12 used on input line 78.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=460, page=13, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 13>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page13 used on input line 80.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=461, page=14, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 14>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page14 used on input line 82.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=462, page=15, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 15>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page15 used on input line 84.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=463, page=16, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 16>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page16 used on input line 86.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
-<figures//K_L4_tex.pdf, id=464, page=17, 370.08429pt x 237.90274pt>
-File: figures//K_L4_tex.pdf Graphic file (type pdf)
-<use figures//K_L4_tex.pdf, page 17>
-Package pdftex.def Info: figures//K_L4_tex.pdf , page17 used on input line 89.
-(pdftex.def)             Requested size: 72.00394pt x 46.28375pt.
+(./figures//sigma_L8.pdf_tex
+<figures//sigma_L8.pdf, id=436, page=1, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 1>
+Package pdftex.def Info: figures//sigma_L8.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=437, page=2, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 2>
+Package pdftex.def Info: figures//sigma_L8.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=438, page=3, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 3>
+Package pdftex.def Info: figures//sigma_L8.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=439, page=4, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 4>
+Package pdftex.def Info: figures//sigma_L8.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=440, page=5, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 5>
+Package pdftex.def Info: figures//sigma_L8.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=441, page=6, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 6>
+Package pdftex.def Info: figures//sigma_L8.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=442, page=7, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 7>
+Package pdftex.def Info: figures//sigma_L8.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=443, page=8, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 8>
+Package pdftex.def Info: figures//sigma_L8.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=444, page=9, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 9>
+Package pdftex.def Info: figures//sigma_L8.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=445, page=10, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 10>
+Package pdftex.def Info: figures//sigma_L8.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=446, page=11, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 11>
+Package pdftex.def Info: figures//sigma_L8.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=447, page=12, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 12>
+Package pdftex.def Info: figures//sigma_L8.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=448, page=13, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 13>
+Package pdftex.def Info: figures//sigma_L8.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+<figures//sigma_L8.pdf, id=449, page=14, 387.57637pt x 240.79012pt>
+File: figures//sigma_L8.pdf Graphic file (type pdf)
+<use figures//sigma_L8.pdf, page 14>
+Package pdftex.def Info: figures//sigma_L8.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 72.00394pt x 44.73285pt.
+) (./figures//sigma_L4.pdf_tex
+<figures//sigma_L4.pdf, id=450, page=1, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 1>
+Package pdftex.def Info: figures//sigma_L4.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=451, page=2, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 2>
+Package pdftex.def Info: figures//sigma_L4.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=452, page=3, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 3>
+Package pdftex.def Info: figures//sigma_L4.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=453, page=4, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 4>
+Package pdftex.def Info: figures//sigma_L4.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=454, page=5, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 5>
+Package pdftex.def Info: figures//sigma_L4.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=455, page=6, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 6>
+Package pdftex.def Info: figures//sigma_L4.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=456, page=7, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 7>
+Package pdftex.def Info: figures//sigma_L4.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=457, page=8, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 8>
+Package pdftex.def Info: figures//sigma_L4.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=458, page=9, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 9>
+Package pdftex.def Info: figures//sigma_L4.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=459, page=10, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 10>
+Package pdftex.def Info: figures//sigma_L4.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=460, page=11, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 11>
+Package pdftex.def Info: figures//sigma_L4.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=461, page=12, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 12>
+Package pdftex.def Info: figures//sigma_L4.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=462, page=13, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 13>
+Package pdftex.def Info: figures//sigma_L4.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=463, page=14, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 14>
+Package pdftex.def Info: figures//sigma_L4.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=464, page=15, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 15>
+Package pdftex.def Info: figures//sigma_L4.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
+<figures//sigma_L4.pdf, id=465, page=16, 388.83504pt x 238.3002pt>
+File: figures//sigma_L4.pdf Graphic file (type pdf)
+<use figures//sigma_L4.pdf, page 16>
+Package pdftex.def Info: figures//sigma_L4.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 72.00394pt x 44.12848pt.
 )
 (./figures//sigmayy_L2_tex.pdf_tex
-<figures//sigmayy_L2_tex.pdf, id=465, page=1, 992.37651pt x 765.6103pt>
+<figures//sigmayy_L2_tex.pdf, id=466, page=1, 993.30264pt x 760.84164pt>
 File: figures//sigmayy_L2_tex.pdf Graphic file (type pdf)
 <use figures//sigmayy_L2_tex.pdf, page 1>
 Package pdftex.def Info: figures//sigmayy_L2_tex.pdf , page1 used on input line
  56.
-(pdftex.def)             Requested size: 72.00394pt x 55.54913pt.
+(pdftex.def)             Requested size: 72.00394pt x 55.14508pt.
+<figures//sigmayy_L2_tex.pdf, id=467, page=2, 993.30264pt x 760.84164pt>
+File: figures//sigmayy_L2_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_L2_tex.pdf, page 2>
+Package pdftex.def Info: figures//sigmayy_L2_tex.pdf , page2 used on input line
+ 62.
+(pdftex.def)             Requested size: 72.00394pt x 55.14508pt.
 ) (./figures//sigmayy_3L4_tex.pdf_tex
-<figures//sigmayy_3L4_tex.pdf, id=466, page=1, 1001.82564pt x 765.6103pt>
+<figures//sigmayy_3L4_tex.pdf, id=468, page=1, 1003.47198pt x 767.33716pt>
 File: figures//sigmayy_3L4_tex.pdf Graphic file (type pdf)
 <use figures//sigmayy_3L4_tex.pdf, page 1>
 Package pdftex.def Info: figures//sigmayy_3L4_tex.pdf , page1 used on input lin
 e 56.
-(pdftex.def)             Requested size: 72.00394pt x 55.02342pt.
+(pdftex.def)             Requested size: 72.00394pt x 55.05386pt.
+<figures//sigmayy_3L4_tex.pdf, id=469, page=2, 1003.47198pt x 767.33716pt>
+File: figures//sigmayy_3L4_tex.pdf Graphic file (type pdf)
+<use figures//sigmayy_3L4_tex.pdf, page 2>
+Package pdftex.def Info: figures//sigmayy_3L4_tex.pdf , page2 used on input lin
+e 62.
+(pdftex.def)             Requested size: 72.00394pt x 55.05386pt.
 )
-(./figures//K_L2_tex.pdf_tex
-<figures//K_L2_tex.pdf, id=467, page=1, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 1>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page1 used on input line 58.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=468, page=2, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 2>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page2 used on input line 60.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=469, page=3, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 3>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page3 used on input line 62.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=470, page=4, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 4>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page4 used on input line 64.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=471, page=5, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 5>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page5 used on input line 66.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=472, page=6, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 6>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page6 used on input line 68.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=473, page=7, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 7>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page7 used on input line 70.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=474, page=8, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 8>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page8 used on input line 72.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=475, page=9, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 9>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page9 used on input line 74.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=476, page=10, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 10>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page10 used on input line 76.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-<figures//K_L2_tex.pdf, id=477, page=11, 375.36124pt x 235.75435pt>
-File: figures//K_L2_tex.pdf Graphic file (type pdf)
-<use figures//K_L2_tex.pdf, page 11>
-Package pdftex.def Info: figures//K_L2_tex.pdf , page11 used on input line 78.
-(pdftex.def)             Requested size: 72.00394pt x 45.22186pt.
-) (./figures//K_3L4_tex.pdf_tex
-<figures//K_3L4_tex.pdf, id=478, page=1, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 1>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=479, page=2, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 2>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page2 used on input line 59.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=480, page=3, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 3>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page3 used on input line 61.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=481, page=4, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 4>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page4 used on input line 63.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=482, page=5, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 5>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page5 used on input line 65.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=483, page=6, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 6>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page6 used on input line 67.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=484, page=7, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 7>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page7 used on input line 69.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=485, page=8, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 8>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page8 used on input line 71.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=486, page=9, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 9>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page9 used on input line 73.
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=487, page=10, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 10>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page10 used on input line 75.
+(./figures//sigma_L2.pdf_tex
+<figures//sigma_L2.pdf, id=470, page=1, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 1>
+Package pdftex.def Info: figures//sigma_L2.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=471, page=2, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 2>
+Package pdftex.def Info: figures//sigma_L2.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=472, page=3, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 3>
+Package pdftex.def Info: figures//sigma_L2.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=473, page=4, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 4>
+Package pdftex.def Info: figures//sigma_L2.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=474, page=5, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 5>
+Package pdftex.def Info: figures//sigma_L2.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=475, page=6, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 6>
+Package pdftex.def Info: figures//sigma_L2.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=476, page=7, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 7>
+Package pdftex.def Info: figures//sigma_L2.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=477, page=8, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 8>
+Package pdftex.def Info: figures//sigma_L2.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=478, page=9, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 9>
+Package pdftex.def Info: figures//sigma_L2.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=479, page=10, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 10>
+Package pdftex.def Info: figures//sigma_L2.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=480, page=11, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 11>
+Package pdftex.def Info: figures//sigma_L2.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+<figures//sigma_L2.pdf, id=481, page=12, 389.00357pt x 240.09782pt>
+File: figures//sigma_L2.pdf Graphic file (type pdf)
+<use figures//sigma_L2.pdf, page 12>
+Package pdftex.def Info: figures//sigma_L2.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 72.00394pt x 44.43938pt.
+) (./figures//sigma_3L4.pdf_tex
+<figures//sigma_3L4.pdf, id=482, page=1, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 1>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=483, page=2, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 2>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=484, page=3, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 3>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=485, page=4, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 4>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=486, page=5, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 5>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=487, page=6, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 6>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=488, page=7, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 7>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=489, page=8, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 8>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=490, page=9, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 9>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=491, page=10, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 10>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page10 used on input line 74.
 
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=488, page=11, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 11>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page11 used on input line 77.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=492, page=11, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 11>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page11 used on input line 76.
 
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=489, page=12, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 12>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page12 used on input line 79.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=493, page=12, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 12>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page12 used on input line 78.
 
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=490, page=13, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 13>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page13 used on input line 81.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
+<figures//sigma_3L4.pdf, id=494, page=13, 380.19003pt x 243.53015pt>
+File: figures//sigma_3L4.pdf Graphic file (type pdf)
+<use figures//sigma_3L4.pdf, page 13>
+Package pdftex.def Info: figures//sigma_3L4.pdf , page13 used on input line 80.
 
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=491, page=14, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 14>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page14 used on input line 83.
-
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
-<figures//K_3L4_tex.pdf, id=492, page=15, 373.66731pt x 241.90375pt>
-File: figures//K_3L4_tex.pdf Graphic file (type pdf)
-<use figures//K_3L4_tex.pdf, page 15>
-Package pdftex.def Info: figures//K_3L4_tex.pdf , page15 used on input line 85.
-
-(pdftex.def)             Requested size: 72.00394pt x 46.61183pt.
+(pdftex.def)             Requested size: 72.00394pt x 46.11885pt.
 )
-(./figures//K_tex.pdf_tex
-<figures//K_tex.pdf, id=493, page=1, 413.43108pt x 237.08473pt>
+<figures//export_iso_slide1.pdf, id=495, 301.125pt x 308.15125pt>
+File: figures//export_iso_slide1.pdf Graphic file (type pdf)
+<use figures//export_iso_slide1.pdf>
+Package pdftex.def Info: figures//export_iso_slide1.pdf  used on input line 274
+.
+(pdftex.def)             Requested size: 74.0614pt x 75.78688pt.
+
+(./figures//export_iso_slide2.pdf_tex
+<figures//export_iso_slide2.pdf, id=496, page=1, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 1>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page1 used on input l
+ine 56.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=497, page=2, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 2>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page2 used on input l
+ine 58.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=498, page=3, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 3>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page3 used on input l
+ine 60.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=499, page=4, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 4>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page4 used on input l
+ine 62.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=500, page=5, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 5>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page5 used on input l
+ine 64.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=501, page=6, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 6>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page6 used on input l
+ine 66.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=502, page=7, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 7>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page7 used on input l
+ine 68.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=503, page=8, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 8>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page8 used on input l
+ine 70.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=504, page=9, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 9>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page9 used on input l
+ine 72.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=505, page=10, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 10>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page10 used on input 
+line 74.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=506, page=11, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 11>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page11 used on input 
+line 76.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=507, page=12, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 12>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page12 used on input 
+line 78.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=508, page=13, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 13>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page13 used on input 
+line 80.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=509, page=14, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 14>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page14 used on input 
+line 82.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=510, page=15, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 15>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page15 used on input 
+line 84.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=511, page=16, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 16>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page16 used on input 
+line 86.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+<figures//export_iso_slide2.pdf, id=512, page=17, 460.40617pt x 268.80443pt>
+File: figures//export_iso_slide2.pdf Graphic file (type pdf)
+<use figures//export_iso_slide2.pdf, page 17>
+Package pdftex.def Info: figures//export_iso_slide2.pdf , page17 used on input 
+line 88.
+(pdftex.def)             Requested size: 123.43443pt x 72.06546pt.
+) (./figures//K_tex.pdf_tex
+<figures//K_tex.pdf, id=513, page=1, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 1>
 Package pdftex.def Info: figures//K_tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=494, page=2, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=514, page=2, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 2>
 Package pdftex.def Info: figures//K_tex.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=495, page=3, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=515, page=3, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 3>
 Package pdftex.def Info: figures//K_tex.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=496, page=4, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=516, page=4, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 4>
 Package pdftex.def Info: figures//K_tex.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=497, page=5, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=517, page=5, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 5>
 Package pdftex.def Info: figures//K_tex.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=498, page=6, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=518, page=6, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 6>
 Package pdftex.def Info: figures//K_tex.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=499, page=7, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=519, page=7, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 7>
 Package pdftex.def Info: figures//K_tex.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=500, page=8, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=520, page=8, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 8>
 Package pdftex.def Info: figures//K_tex.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=501, page=9, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=521, page=9, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 9>
 Package pdftex.def Info: figures//K_tex.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=502, page=10, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=522, page=10, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 10>
 Package pdftex.def Info: figures//K_tex.pdf , page10 used on input line 74.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=503, page=11, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=523, page=11, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 11>
 Package pdftex.def Info: figures//K_tex.pdf , page11 used on input line 76.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=504, page=12, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=524, page=12, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 12>
 Package pdftex.def Info: figures//K_tex.pdf , page12 used on input line 78.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=505, page=13, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=525, page=13, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 13>
 Package pdftex.def Info: figures//K_tex.pdf , page13 used on input line 80.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=506, page=14, 413.43108pt x 237.08473pt>
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
+<figures//K_tex.pdf, id=526, page=14, 435.99731pt x 211.34401pt>
 File: figures//K_tex.pdf Graphic file (type pdf)
 <use figures//K_tex.pdf, page 14>
 Package pdftex.def Info: figures//K_tex.pdf , page14 used on input line 82.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=507, page=15, 413.43108pt x 237.08473pt>
-File: figures//K_tex.pdf Graphic file (type pdf)
-<use figures//K_tex.pdf, page 15>
-Package pdftex.def Info: figures//K_tex.pdf , page15 used on input line 84.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
-<figures//K_tex.pdf, id=508, page=16, 413.43108pt x 237.08473pt>
-File: figures//K_tex.pdf Graphic file (type pdf)
-<use figures//K_tex.pdf, page 16>
-Package pdftex.def Info: figures//K_tex.pdf , page16 used on input line 86.
-(pdftex.def)             Requested size: 222.18048pt x 127.41246pt.
+(pdftex.def)             Requested size: 209.84004pt x 101.71806pt.
 )
-Overfull \hbox (18.81265pt too wide) in paragraph at lines 266--266
+Overfull \hbox (12.20023pt too wide) in paragraph at lines 274--274
       [] 
  []
 
 
-Overfull \vbox (1.52837pt too high) detected at line 266
+Overfull \vbox (6.85916pt too high) detected at line 274
  []
 
 [5
 
- <./figures//sigmayy_L8_tex.pdf> <./figures//sigmayy_L4_tex.pdf
+ <./figures//sigmayy_L8_tex.pdf> <./figures//sigmayy_L8_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L8_tex.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./figures//sigmayy_L4_tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L4_tex.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigmayy_L4_tex.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L4_tex.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L8_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L8_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L8.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L8.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L4_tex.pdf
+> <./figures//sigma_L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L4_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L4.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
+> <./figures//sigmayy_L2_tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L2_tex.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
 > <./figures//sigmayy_L2_tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_L2_tex.pdf): PDF inclusio
@@ -2843,118 +2963,182 @@ n: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_3L4_tex.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigmayy_3L4_tex.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigmayy_3L4_tex.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./figures//sigma_L2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_L2_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_L2_tex.pdf): PDF inclusion: mul
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_L2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_L2.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./figures//sigma_3L4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//sigma_3L4.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
+pdfTeX warning: pdflatex.exe (file ./figures//sigma_3L4.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+> <./figures//export_iso_slide1.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
-ltiple pdfs with page group included in a single page
-> <./figures//K_3L4_tex.pdf
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide1.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_3L4_tex.pdf): PDF inclusion: mu
-ltiple pdfs with page group included in a single page
-> <./figures//K_tex.pdf
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_tex.pdf): PDF inclusion: multip
-le pdfs with page group included in a single page
-> <./figures//K_tex.pdf
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures//K_tex.pdf): PDF inclusion: multip
-le pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures//export_iso_slide2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures//export_iso_slide2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
 > <./figures//K_tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures//K_tex.pdf): PDF inclusion: multip
@@ -3012,19 +3196,19 @@ le pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figures//K_tex.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
 >] (./figures//patch_isotropic_tex.pdf_tex
-<figures//patch_isotropic_tex.pdf, id=555, page=1, 472.46324pt x 222.04135pt>
+<figures//patch_isotropic_tex.pdf, id=579, page=1, 472.46324pt x 222.04135pt>
 File: figures//patch_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//patch_isotropic_tex.pdf, page 1>
 Package pdftex.def Info: figures//patch_isotropic_tex.pdf , page1 used on input
  line 56.
 (pdftex.def)             Requested size: 72.00394pt x 33.83669pt.
-<figures//patch_isotropic_tex.pdf, id=556, page=2, 472.46324pt x 222.04135pt>
+<figures//patch_isotropic_tex.pdf, id=580, page=2, 472.46324pt x 222.04135pt>
 File: figures//patch_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//patch_isotropic_tex.pdf, page 2>
 Package pdftex.def Info: figures//patch_isotropic_tex.pdf , page2 used on input
  line 58.
 (pdftex.def)             Requested size: 72.00394pt x 33.83669pt.
-<figures//patch_isotropic_tex.pdf, id=557, page=3, 472.46324pt x 222.04135pt>
+<figures//patch_isotropic_tex.pdf, id=581, page=3, 472.46324pt x 222.04135pt>
 File: figures//patch_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//patch_isotropic_tex.pdf, page 3>
 Package pdftex.def Info: figures//patch_isotropic_tex.pdf , page3 used on input
@@ -3032,138 +3216,138 @@ Package pdftex.def Info: figures//patch_isotropic_tex.pdf , page3 used on input
 (pdftex.def)             Requested size: 72.00394pt x 33.83669pt.
 )
 (./figures//patch_kinematic_tex.pdf_tex
-<figures//patch_kinematic_tex.pdf, id=558, page=1, 470.60779pt x 246.8888pt>
+<figures//patch_kinematic_tex.pdf, id=582, page=1, 470.60779pt x 246.8888pt>
 File: figures//patch_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//patch_kinematic_tex.pdf, page 1>
 Package pdftex.def Info: figures//patch_kinematic_tex.pdf , page1 used on input
  line 56.
 (pdftex.def)             Requested size: 72.00394pt x 37.77385pt.
-<figures//patch_kinematic_tex.pdf, id=559, page=2, 470.60779pt x 246.8888pt>
+<figures//patch_kinematic_tex.pdf, id=583, page=2, 470.60779pt x 246.8888pt>
 File: figures//patch_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//patch_kinematic_tex.pdf, page 2>
 Package pdftex.def Info: figures//patch_kinematic_tex.pdf , page2 used on input
  line 58.
 (pdftex.def)             Requested size: 72.00394pt x 37.77385pt.
-<figures//patch_kinematic_tex.pdf, id=560, page=3, 470.60779pt x 246.8888pt>
+<figures//patch_kinematic_tex.pdf, id=584, page=3, 470.60779pt x 246.8888pt>
 File: figures//patch_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//patch_kinematic_tex.pdf, page 3>
 Package pdftex.def Info: figures//patch_kinematic_tex.pdf , page3 used on input
  line 60.
 (pdftex.def)             Requested size: 72.00394pt x 37.77385pt.
 ) (./figures//load_tex.pdf_tex
-<figures//load_tex.pdf, id=561, page=1, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=585, page=1, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 1>
 Package pdftex.def Info: figures//load_tex.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=562, page=2, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=586, page=2, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 2>
 Package pdftex.def Info: figures//load_tex.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=563, page=3, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=587, page=3, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 3>
 Package pdftex.def Info: figures//load_tex.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=564, page=4, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=588, page=4, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 4>
 Package pdftex.def Info: figures//load_tex.pdf , page4 used on input line 62.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=565, page=5, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=589, page=5, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 5>
 Package pdftex.def Info: figures//load_tex.pdf , page5 used on input line 64.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=566, page=6, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=590, page=6, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 6>
 Package pdftex.def Info: figures//load_tex.pdf , page6 used on input line 66.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=567, page=7, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=591, page=7, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 7>
 Package pdftex.def Info: figures//load_tex.pdf , page7 used on input line 69.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=568, page=8, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=592, page=8, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 8>
 Package pdftex.def Info: figures//load_tex.pdf , page8 used on input line 72.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=569, page=9, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=593, page=9, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 9>
 Package pdftex.def Info: figures//load_tex.pdf , page9 used on input line 74.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
-<figures//load_tex.pdf, id=570, page=10, 362.35374pt x 222.87164pt>
+<figures//load_tex.pdf, id=594, page=10, 362.35374pt x 222.87164pt>
 File: figures//load_tex.pdf Graphic file (type pdf)
 <use figures//load_tex.pdf, page 10>
 Package pdftex.def Info: figures//load_tex.pdf , page10 used on input line 76.
 (pdftex.def)             Requested size: 129.60622pt x 79.71681pt.
 )
 (./figures//plate_isotropic_tex.pdf_tex
-<figures//plate_isotropic_tex.pdf, id=571, page=1, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=595, page=1, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 1>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page1 used on input
  line 56.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=572, page=2, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=596, page=2, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 2>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page2 used on input
  line 58.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=573, page=3, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=597, page=3, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 3>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page3 used on input
  line 60.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=574, page=4, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=598, page=4, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 4>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page4 used on input
  line 62.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=575, page=5, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=599, page=5, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 5>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page5 used on input
  line 64.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=576, page=6, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=600, page=6, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 6>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page6 used on input
  line 66.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=577, page=7, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=601, page=7, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 7>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page7 used on input
  line 68.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=578, page=8, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=602, page=8, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 8>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page8 used on input
  line 70.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=579, page=9, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=603, page=9, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 9>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page9 used on input
  line 72.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=580, page=10, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=604, page=10, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 10>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page10 used on inpu
 t line 74.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
-<figures//plate_isotropic_tex.pdf, id=581, page=11, 360.16745pt x 261.85524pt>
+<figures//plate_isotropic_tex.pdf, id=605, page=11, 360.16745pt x 261.85524pt>
 File: figures//plate_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//plate_isotropic_tex.pdf, page 11>
 Package pdftex.def Info: figures//plate_isotropic_tex.pdf , page11 used on inpu
@@ -3171,278 +3355,278 @@ t line 76.
 (pdftex.def)             Requested size: 57.60336pt x 41.8777pt.
 )
 (./figures//plate_kinematic_tex.pdf_tex
-<figures//plate_kinematic_tex.pdf, id=582, page=1, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=606, page=1, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 1>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page1 used on input
  line 56.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=583, page=2, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=607, page=2, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 2>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page2 used on input
  line 58.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=584, page=3, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=608, page=3, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 3>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page3 used on input
  line 60.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=585, page=4, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=609, page=4, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 4>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page4 used on input
  line 62.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=586, page=5, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=610, page=5, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 5>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page5 used on input
  line 64.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=587, page=6, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=611, page=6, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 6>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page6 used on input
  line 66.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=588, page=7, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=612, page=7, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 7>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page7 used on input
  line 68.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=589, page=8, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=613, page=8, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 8>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page8 used on input
  line 71.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=590, page=9, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=614, page=9, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 9>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page9 used on input
  line 74.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=591, page=10, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=615, page=10, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 10>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page10 used on inpu
 t line 76.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=592, page=11, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=616, page=11, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 11>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page11 used on inpu
 t line 78.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
-<figures//plate_kinematic_tex.pdf, id=593, page=12, 352.47685pt x 264.83365pt>
+<figures//plate_kinematic_tex.pdf, id=617, page=12, 352.47685pt x 264.83365pt>
 File: figures//plate_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//plate_kinematic_tex.pdf, page 12>
 Package pdftex.def Info: figures//plate_kinematic_tex.pdf , page12 used on inpu
 t line 80.
 (pdftex.def)             Requested size: 64.8031pt x 48.69037pt.
 ) (./figures//cook_isotropic_tex.pdf_tex
-<figures//cook_isotropic_tex.pdf, id=594, page=1, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=618, page=1, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 1>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page1 used on input 
 line 56.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=595, page=2, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=619, page=2, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 2>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page2 used on input 
 line 58.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=596, page=3, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=620, page=3, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 3>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page3 used on input 
 line 60.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=597, page=4, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=621, page=4, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 4>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page4 used on input 
 line 62.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=598, page=5, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=622, page=5, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 5>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page5 used on input 
 line 64.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=599, page=6, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=623, page=6, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 6>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page6 used on input 
 line 66.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=600, page=7, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=624, page=7, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 7>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page7 used on input 
 line 68.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=601, page=8, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=625, page=8, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 8>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page8 used on input 
 line 70.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=602, page=9, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=626, page=9, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 9>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page9 used on input 
 line 72.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=603, page=10, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=627, page=10, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 10>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page10 used on input
  line 74.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=604, page=11, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=628, page=11, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 11>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page11 used on input
  line 76.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
-<figures//cook_isotropic_tex.pdf, id=605, page=12, 273.75468pt x 230.04446pt>
+<figures//cook_isotropic_tex.pdf, id=629, page=12, 273.75468pt x 230.04446pt>
 File: figures//cook_isotropic_tex.pdf Graphic file (type pdf)
 <use figures//cook_isotropic_tex.pdf, page 12>
 Package pdftex.def Info: figures//cook_isotropic_tex.pdf , page12 used on input
  line 79.
 (pdftex.def)             Requested size: 111.09023pt x 93.35353pt.
 ) (./figures//cook_kinematic_tex.pdf_tex
-<figures//cook_kinematic_tex.pdf, id=606, page=1, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=630, page=1, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 1>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page1 used on input 
 line 56.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=607, page=2, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=631, page=2, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 2>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page2 used on input 
 line 58.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=608, page=3, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=632, page=3, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 3>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page3 used on input 
 line 60.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=609, page=4, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=633, page=4, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 4>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page4 used on input 
 line 62.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=610, page=5, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=634, page=5, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 5>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page5 used on input 
 line 64.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=611, page=6, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=635, page=6, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 6>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page6 used on input 
 line 67.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=612, page=7, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=636, page=7, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 7>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page7 used on input 
 line 70.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=613, page=8, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=637, page=8, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 8>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page8 used on input 
 line 73.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=614, page=9, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=638, page=9, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 9>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page9 used on input 
 line 75.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=615, page=10, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=639, page=10, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 10>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page10 used on input
  line 77.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
-<figures//cook_kinematic_tex.pdf, id=616, page=11, 357.71324pt x 234.02217pt>
+<figures//cook_kinematic_tex.pdf, id=640, page=11, 357.71324pt x 234.02217pt>
 File: figures//cook_kinematic_tex.pdf Graphic file (type pdf)
 <use figures//cook_kinematic_tex.pdf, page 11>
 Package pdftex.def Info: figures//cook_kinematic_tex.pdf , page11 used on input
  line 79.
 (pdftex.def)             Requested size: 123.43443pt x 80.75201pt.
 )
-<figures//iso1.png, id=617, 1355.0625pt x 1355.0625pt>
+<figures//iso1.png, id=641, 1355.0625pt x 1355.0625pt>
 File: figures//iso1.png Graphic file (type png)
 <use figures//iso1.png>
-Package pdftex.def Info: figures//iso1.png  used on input line 349.
+Package pdftex.def Info: figures//iso1.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//iso2.png, id=618, 1355.0625pt x 1355.0625pt>
+<figures//iso2.png, id=642, 1355.0625pt x 1355.0625pt>
 File: figures//iso2.png Graphic file (type png)
 <use figures//iso2.png>
-Package pdftex.def Info: figures//iso2.png  used on input line 349.
+Package pdftex.def Info: figures//iso2.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//iso3.png, id=619, 1355.0625pt x 1355.0625pt>
+<figures//iso3.png, id=643, 1355.0625pt x 1355.0625pt>
 File: figures//iso3.png Graphic file (type png)
 <use figures//iso3.png>
-Package pdftex.def Info: figures//iso3.png  used on input line 349.
+Package pdftex.def Info: figures//iso3.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin1.png, id=620, 1355.0625pt x 1355.0625pt>
+<figures//kin1.png, id=644, 1355.0625pt x 1355.0625pt>
 File: figures//kin1.png Graphic file (type png)
 <use figures//kin1.png>
-Package pdftex.def Info: figures//kin1.png  used on input line 349.
+Package pdftex.def Info: figures//kin1.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin2.png, id=621, 1355.0625pt x 1355.0625pt>
+<figures//kin2.png, id=645, 1355.0625pt x 1355.0625pt>
 File: figures//kin2.png Graphic file (type png)
 <use figures//kin2.png>
-Package pdftex.def Info: figures//kin2.png  used on input line 349.
+Package pdftex.def Info: figures//kin2.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin3.png, id=622, 1355.0625pt x 1355.0625pt>
+<figures//kin3.png, id=646, 1355.0625pt x 1355.0625pt>
 File: figures//kin3.png Graphic file (type png)
 <use figures//kin3.png>
-Package pdftex.def Info: figures//kin3.png  used on input line 349.
+Package pdftex.def Info: figures//kin3.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//iso4.png, id=623, 1355.0625pt x 1355.0625pt>
+<figures//iso4.png, id=647, 1355.0625pt x 1355.0625pt>
 File: figures//iso4.png Graphic file (type png)
 <use figures//iso4.png>
-Package pdftex.def Info: figures//iso4.png  used on input line 349.
+Package pdftex.def Info: figures//iso4.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//iso5.png, id=624, 1355.0625pt x 1355.0625pt>
+<figures//iso5.png, id=648, 1355.0625pt x 1355.0625pt>
 File: figures//iso5.png Graphic file (type png)
 <use figures//iso5.png>
-Package pdftex.def Info: figures//iso5.png  used on input line 349.
+Package pdftex.def Info: figures//iso5.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//iso6.png, id=625, 1355.0625pt x 1355.0625pt>
+<figures//iso6.png, id=649, 1355.0625pt x 1355.0625pt>
 File: figures//iso6.png Graphic file (type png)
 <use figures//iso6.png>
-Package pdftex.def Info: figures//iso6.png  used on input line 349.
+Package pdftex.def Info: figures//iso6.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin4.png, id=626, 1355.0625pt x 1355.0625pt>
+<figures//kin4.png, id=650, 1355.0625pt x 1355.0625pt>
 File: figures//kin4.png Graphic file (type png)
 <use figures//kin4.png>
-Package pdftex.def Info: figures//kin4.png  used on input line 349.
+Package pdftex.def Info: figures//kin4.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin5.png, id=627, 1355.0625pt x 1355.0625pt>
+<figures//kin5.png, id=651, 1355.0625pt x 1355.0625pt>
 File: figures//kin5.png Graphic file (type png)
 <use figures//kin5.png>
-Package pdftex.def Info: figures//kin5.png  used on input line 349.
+Package pdftex.def Info: figures//kin5.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
-<figures//kin6.png, id=628, 1355.0625pt x 1355.0625pt>
+<figures//kin6.png, id=652, 1355.0625pt x 1355.0625pt>
 File: figures//kin6.png Graphic file (type png)
 <use figures//kin6.png>
-Package pdftex.def Info: figures//kin6.png  used on input line 349.
+Package pdftex.def Info: figures//kin6.png  used on input line 357.
 (pdftex.def)             Requested size: 37.0307pt x 37.01103pt.
  [6
 
@@ -3712,11 +3896,11 @@ Package rerunfilecheck Info: File `my_beamer.out' has not changed.
 (rerunfilecheck)             Checksum: 65F2C9F0DC09CB7504E7C1CFD3FF7492;111.
  ) 
 Here is how much of TeX's memory you used:
- 27503 strings out of 478579
- 573883 string characters out of 5857457
- 852799 words of memory out of 5000000
- 44731 multiletter control sequences out of 15000+600000
- 420813 words of font info for 92 fonts, out of 8000000 for 9000
+ 27551 strings out of 478579
+ 576701 string characters out of 5857457
+ 868081 words of memory out of 5000000
+ 44782 multiletter control sequences out of 15000+600000
+ 418437 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,21n,124p,434b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
@@ -3724,16 +3908,14 @@ live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021
 /texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2021/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:
-/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2
-021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2021/texmf
--dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on my_beamer.pdf (6 pages, 16675313 bytes).
+ublic/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c
+:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+Output written on my_beamer.pdf (6 pages, 16932657 bytes).
 PDF statistics:
- 710 PDF objects out of 1000 (max. 8388607)
+ 726 PDF objects out of 1000 (max. 8388607)
  294 compressed objects within 3 object streams
  14 named destinations out of 1000 (max. 500000)
- 1391 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1481 words of extra memory for PDF output out of 10000 (max. 10000000)
 
