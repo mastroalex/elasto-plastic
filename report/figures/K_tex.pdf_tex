@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{434.36843358bp}%
+    \setlength{\unitlength}{437.66124585bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,40 +50,39 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.48473696)%
+  \begin{picture}(1,0.50125954)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{K_tex.pdf}}%
-    \put(0.06341346,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.0\end{tabular}}}}%
+    \put(0.07408651,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.0\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{K_tex.pdf}}%
-    \put(0.19218892,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.2\end{tabular}}}}%
+    \put(0.2018931,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.2\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{K_tex.pdf}}%
-    \put(0.32096438,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.4\end{tabular}}}}%
+    \put(0.3296997,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.4\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{K_tex.pdf}}%
-    \put(0.44973986,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.6\end{tabular}}}}%
+    \put(0.45750632,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.6\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{K_tex.pdf}}%
-    \put(0.57851534,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.8\end{tabular}}}}%
+    \put(0.58531293,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.8\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{K_tex.pdf}}%
-    \put(0.70729079,0.00028103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1.0\end{tabular}}}}%
+    \put(0.71311955,0.00027892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1.0\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{K_tex.pdf}}%
-    \put(0.80491591,0.03260865){\color[rgb]{0.4,0.4,0.4}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$a\over L$\end{tabular}}}}%
+    \put(0.05006414,0.03657465){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{K_tex.pdf}}%
-    \put(0.05044366,0.0305173){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.01350618,0.11766914){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2000\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=9]{K_tex.pdf}}%
-    \put(0.01360857,0.10786552){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2000\end{tabular}}}}%
+    \put(0.01350618,0.19876365){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4000\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=10]{K_tex.pdf}}%
-    \put(0.01360857,0.18521377){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4000\end{tabular}}}}%
+    \put(0.01350618,0.27985819){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}6000\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=11]{K_tex.pdf}}%
-    \put(0.01360857,0.26256201){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}6000\end{tabular}}}}%
+    \put(0.01350618,0.36095269){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}8000\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=12]{K_tex.pdf}}%
-    \put(0.01360857,0.33991027){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}8000\end{tabular}}}}%
+    \put(-0.00248792,0.4420472){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10000\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=13]{K_tex.pdf}}%
-    \put(-0.00250678,0.41725852){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10000\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=14]{K_tex.pdf}}%
-    \put(0.09656739,0.46673984){\color[rgb]{0.4,0.4,0.4}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K$\end{tabular}}}}%
-    \put(0.19591383,0.44426864){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{10098.5}\end{tabular}}}}%
-    \put(0.27185966,0.34275994){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{7537.23}\end{tabular}}}}%
-    \put(0.42871124,0.23087248){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{4693.12}\end{tabular}}}}%
-    \put(0.59392822,0.18068){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{3348.79}\end{tabular}}}}%
+    \put(0.79898613,0.05253288){\color[rgb]{0.4,0.4,0.4}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$a\over L$\end{tabular}}}}%
+    \put(0.095967,0.48339782){\color[rgb]{0.4,0.4,0.4}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K$\end{tabular}}}}%
+    \put(0.19528663,0.43924442){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{9559.49}\end{tabular}}}}%
+    \put(0.27601502,0.36824234){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{7776.57}\end{tabular}}}}%
+    \put(0.43163604,0.25055396){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{4879.67}\end{tabular}}}}%
+    \put(0.59698337,0.21067608){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textcolor{myred}{3946.59}\end{tabular}}}}%
   \end{picture}%
 \endgroup%
